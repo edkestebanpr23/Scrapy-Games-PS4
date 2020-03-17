@@ -1,7 +1,28 @@
 import scrapy
 
+# class QuotesSpider(scrapy.Spider):
+#     name = "games"
+
+#     def start_requests(self):
+#         url = 'http://quotes.toscrape.com/'
+#         tag = getattr(self, 'tag', None)
+#         if tag is not None:
+#             url = url + 'tag/' + tag
+#         yield scrapy.Request(url, self.parse)
+
+#     def parse(self, response):
+#         for quote in response.css('div.quote'):
+#             yield {
+#                 'text': quote.css('span.text::text').get(),
+#                 'author': quote.css('small.author::text').get(),
+#             }
+
+#         next_page = response.css('li.next a::attr(href)').get()
+#         if next_page is not None:
+#             yield response.follow(next_page, self.parse)
+
 class QuotesSpider(scrapy.Spider):
-    name = "games" # Nombre de la araña, es un id
+    name = "games"
 
     def start_requests(self):
         url = 'https://www.gamesmen.com.au/video-games/ps4/games/'
@@ -11,15 +32,15 @@ class QuotesSpider(scrapy.Spider):
         
         for quote in response.css('li.item'): # Iterando sobre el array de todos los juegos de una pagina
             if quote.css('p.product-name a::text').get() is not None:
-                urlGame = quote.css('p.product-name a::attr(href)').get() # Se obtiene el url de cada juego de una pagina
+                urlGame = quote.css('p.product-name a::attr(href)').get()
+                # title = quote.css('p.product-name a::text').get()
 
-                yield scrapy.Request(str(urlGame), self.page) # Invocando el metodo page para que lea la página enviada
+                yield scrapy.Request(str(urlGame), self.page)
 
-        # Este bloque hace que se pueda iterar entre todas las paginas (1, 2, 3, ... , n) que tenga la "pagina web"
         next_page = response.css('a.next::attr(href)')[0].get()
         print(next_page)
         if next_page is not None:
-            yield response.follow(next_page) # Esto le indica que el mismo contenido continúa en otra página
+            yield response.follow(next_page)
 
     def page(self, response):
         # Obtener genero
@@ -44,7 +65,10 @@ class QuotesSpider(scrapy.Spider):
             indexPub = datos.index('Publisher')
             publisher = valores[indexPub].css('a > img::attr(title)').get()
 
-        # Este yield es quien va concatenando los datos y los va metiendo en un json
+
+        # Desarrollador
+        # indexDeveloper = datos.index('Developer')
+
         yield {
             'title': response.css('div.product-name h1::text').get(),
             'url' : response.url,
@@ -53,6 +77,3 @@ class QuotesSpider(scrapy.Spider):
             'classification' : classification,
             'publisher' : publisher
         }
-
-
-    

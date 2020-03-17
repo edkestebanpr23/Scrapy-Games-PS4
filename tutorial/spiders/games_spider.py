@@ -34,28 +34,16 @@ class QuotesSpider(scrapy.Spider):
                 urlGame = quote.css('p.product-name a::attr(href)').get()
                 title = quote.css('p.product-name a::text').get()
 
-                yield scrapy.Request(urlGame, self.parse2, title, urlGame)
                 
-                # yield {
-                #     'title': title,
-                #     'url' : urlGame,
-                #     'otro' : x
-                # # 'author': quote.css('small.author::text').get(),
-                # }
+                yield {
+                    'title': title,
+                    'url' : urlGame,
+                }
 
         # next_page = response.css('a.next::attr(href)')[0].get()
         # print(next_page)
         # if next_page is not None:
         #     yield response.follow(next_page)
-    # def callback(title):
 
 
-    def parse2(self, response, title, urlGame):
-        # title = response.css('div.product-name h1::text').get()
-        # return title
-        yield {
-            'title': title,
-            'url' : urlGame,
-            'otro' : 'Hola'
-        # 'author': quote.css('small.author::text').get(),
-        }
+    

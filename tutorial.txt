@@ -1,0 +1,12 @@
+
+
+***** Tutorial basico Scrapy *****
+
+
+*** Operar una pagina en particular desde terminal ***
+		
+		scrapy shell "https://www.gamesmen.com.au/video-games/ps4/games"
+
+*** Operar desde codigo y generar un json ***
+	
+		scrapy crawl games -o games.json

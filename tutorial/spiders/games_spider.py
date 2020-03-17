@@ -34,16 +34,30 @@ class QuotesSpider(scrapy.Spider):
                 urlGame = quote.css('p.product-name a::attr(href)').get()
                 title = quote.css('p.product-name a::text').get()
 
-                
-                yield {
-                    'title': title,
-                    'url' : urlGame,
-                }
+                yield scrapy.Request(str(urlGame), self.page)
 
         # next_page = response.css('a.next::attr(href)')[0].get()
         # print(next_page)
         # if next_page is not None:
         #     yield response.follow(next_page)
+
+    def page(self, response):
+        # Obtener genero
+        datosGenero = response.css('tbody > tr > th::text').getall()
+        indexGenre = datosGenero.index('Genre')
+        # genre = str(response.css('tbody > tr > td::text').getall()[indexGenre]).strip()
+
+        # Obtener otros datos
+        # datos = response.css('div.attributelinkscontainer > div > div.gmdividerred h2::text').getall()
+
+        # Desarrollador
+        # indexDeveloper = datos.index('Developer')
+
+        yield {
+            'title': response.css('div.product-name h1::text').get(),
+            'url' : response.url,
+            'developer' : response.css('div.attributelinkscontainer > div > div.attributelinks a::attr(title)').get()
+        }
 
 
     

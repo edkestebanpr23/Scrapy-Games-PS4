@@ -10,11 +10,24 @@ import json
 import string
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
+from pymongo import MongoClient
 """ from nltk.corpus import stopwords """
 
 stopwords = ['limited','preorder','remake', 'ps4', 'playstation', 'with', 'day', 'one', 'gold','hits','premium', 'complete', 'champion', 'launch', 'pre-order', 'special', 'edition', 'bonus', 'dlc', 'preowned', 'remastered', 'xl', 'deluxe', 'enhanced', 'digital', 'apex', 'definitive', 'anniversary', 'standard', 'ultimate']
 """ stopwords = stopwords.words('english') """
 
+# conexión
+con = MongoClient('mongodb+srv://inmanueld:securepass@ps4games-8q85r.mongodb.net/test?retryWrites=true&w=majority')
+db = con.ps4
+
+# colección
+#User = db.user
+#resultado = User.find()
+Games = db.game
+
+
+#for x in resultado:
+#    print(x)
 def clean_string(text):
     text = ''.join([word for word in text if word not in string.punctuation])
     text = text.lower()
@@ -41,6 +54,10 @@ for gameItem in games:
     for buyGameItem in buyGames:
         sentences.append(buyGameItem.get('title'))
         buyGameItem.update({"url2": None})
+        buyGameItem.update({"publisher": None})
+        buyGameItem.update({"classification": None})
+        buyGameItem.update({"genre": None})
+        buyGameItem.update({"developer": None})
         cleaned = list(map(clean_string, sentences))
         vectorizer = CountVectorizer().fit_transform(cleaned)
         vectors = vectorizer.toarray()
@@ -53,9 +70,11 @@ for gameItem in games:
         sentences.pop(1)
     sentences.clear()
  
-mergedGames = games
+mergedGames = games + buyGames
 with open('../mergedGames.json', 'w') as json_file:
   json.dump(mergedGames, json_file)
     
+#for mergedItem in mergedGames:
+#    Games.update_one({ "title": mergedItem.get('title')}, mergedItem)  
 """ print(games) 
 print(buyGames) """

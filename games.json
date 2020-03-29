@@ -1,276 +1,1930 @@
 [
-{"publisher": "Square Enix", "classification": "Mature (M)", "title": "Final Fantasy VII Remake", "url": "https://www.gamesmen.com.au/ps4-final-fantasy-vii-remake", "genre": "RPG", "developer": "Square Enix"},
-{"publisher": "Activision", "classification": "Mature Accompanied (MA 15+)", "title": "Call of Duty: Modern Warfare", "url": "https://www.gamesmen.com.au/call-of-duty-modern-warfare-1", "genre": "Shooter", "developer": "Infinity Ward"},
-{"publisher": "Electronic Arts", "classification": "Mature (M)", "title": "Star Wars: Jedi Fallen Order", "url": "https://www.gamesmen.com.au/star-wars-jedi-fallen-order", "genre": "RPG", "developer": "Respawn Entertainment"},
-{"publisher": "Ubisoft", "classification": "General (G)", "title": "Legendary Fishing", "url": "https://www.gamesmen.com.au/legendary-fishing-1", "genre": "Sports", "developer": null},
-{"publisher": "Bethesda Softworks", "classification": "Restricted (R 18+)", "title": "Wolfenstein: The Old Blood", "url": "https://www.gamesmen.com.au/ps4-wolfenstein-the-old-blood", "genre": "Shooter", "developer": "MachineGames"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Owlboy", "url": "https://www.gamesmen.com.au/owlboy", "genre": "Action/Adventure", "developer": "SOEDESCO"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Far Cry: New Dawn", "url": "https://www.gamesmen.com.au/far-cry-new-dawn", "genre": "Action/Adventure", "developer": "Ubisoft Montreal"},
-{"publisher": "Sony Interactive Entertainment", "classification": "General (G)", "title": "Gran Turismo Sport (Playstation Hits)", "url": "https://www.gamesmen.com.au/ps4-gran-turismo-gt-sport-hits", "genre": "Racing", "developer": "Polyphony Digital"},
-{"publisher": "Codemasters", "classification": "General (G)", "title": "DiRT Rally 2.0 Day One Edition", "url": "https://www.gamesmen.com.au/dirt-rally-2-0-day-one-edition", "genre": "Racing", "developer": "Racing Simulators & Cockpits"},
-{"publisher": "2K Games", "classification": "Mature Accompanied (MA 15+)", "title": "Borderlands 3", "url": "https://www.gamesmen.com.au/borderlands-3", "genre": "Shooter", "developer": "Gearbox Software"},
-{"publisher": "Sony Interactive Entertainment", "classification": "General (G)", "title": "MLB The Show 20 (U.S. Import)", "url": "https://www.gamesmen.com.au/mlb-the-show-20-u-s-import", "genre": "Sports", "developer": "SIE San Diego Studio"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Persona 5 Royal Launch Edition", "url": "https://www.gamesmen.com.au/persona-5-royal-launch-edition", "genre": "RPG", "developer": "Atlus"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's The Division 2", "url": "https://www.gamesmen.com.au/tom-clancy-s-the-division-2-1", "genre": "Shooter", "developer": "Massive Entertainment"},
-{"publisher": "Ubisoft", "classification": "General (G)", "title": "Just Dance 2017", "url": "https://www.gamesmen.com.au/just-dance-2017-1", "genre": "Music & Dance", "developer": "Ubisoft Paris"},
-{"publisher": "Electronic Arts", "classification": "Mature (M)", "title": "Need for Speed: Heat", "url": "https://www.gamesmen.com.au/need-for-speed-heat", "genre": "Racing", "developer": "Ghost Games"},
-{"publisher": "Ubisoft", "classification": "\u200bParental Guidance (PG)", "title": "Steep X Games Gold Edition", "url": "https://www.gamesmen.com.au/steep-x-games-gold-edition", "genre": "Sports", "developer": null},
-{"publisher": "2K Sports", "classification": "General (G)", "title": "NBA 2K15 [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22084/", "genre": "Sports", "developer": "Visual Concepts"},
-{"publisher": null, "classification": "Mature (M)", "title": "Omen of Sorrow", "url": "https://www.gamesmen.com.au/omen-of-sorrow", "genre": "Fighting", "developer": "SOEDESCO"},
-{"publisher": "Koei Tecmo", "classification": "Mature Accompanied (MA 15+)", "title": "Nioh 2", "url": "https://www.gamesmen.com.au/nioh-2", "genre": "Action/Adventure", "developer": "Team Ninja"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's Ghost Recon: Wildlands Gold Edition", "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-wildlands-gold-edition-1", "genre": "Shooter", "developer": "Ubisoft Paris"},
-{"publisher": "Ubisoft", "classification": "\u200bParental Guidance (PG)", "title": "Star Trek: Bridge Crew", "url": "https://www.gamesmen.com.au/star-trek-bridge-crew", "genre": "Action/Adventure", "developer": "Red Storm Entertainment"},
-{"publisher": "Ubisoft", "classification": "Restricted (R 18+)", "title": "South Park: The Fractured But Whole", "url": "https://www.gamesmen.com.au/ps4-south-park-the-fractured-but-whole", "genre": "RPG", "developer": "Ubisoft San Francisco"},
-{"publisher": "2K Games", "classification": "General (G)", "title": "NBA 2K20", "url": "https://www.gamesmen.com.au/nba-2k20-ps4", "genre": "Sports", "developer": "Visual Concepts"},
-{"publisher": "Bethesda Softworks", "classification": "Restricted (R 18+)", "title": "Doom Eternal with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/doom-eternal-2", "genre": "Shooter", "developer": "id Software"},
-{"publisher": "Sony Interactive Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "Dreams", "url": "https://www.gamesmen.com.au/dreams-1", "genre": "Family/Kids", "developer": "Media Molecule"},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "FIFA 20", "url": "https://www.gamesmen.com.au/fifa-20-2", "genre": "Sports", "developer": "EA Vancouver"},
-{"publisher": "SEGA", "classification": "Mature Accompanied (MA 15+)", "title": "Bayonetta & Vanquish 10th Anniversary Launch Edition", "url": "https://www.gamesmen.com.au/bayonetta-vanquish-10th-anniversary-launch-edition", "genre": "Action/Adventure", "developer": "PlatinumGames"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Assassin's Creed Syndicate Special Edition", "url": "https://www.gamesmen.com.au/ps4-assassins-creed-syndicate", "genre": "Action/Adventure", "developer": "Ubisoft Quebec"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Assassin's Creed Syndicate [Pre-Owned]", "url": "https://www.gamesmen.com.au/assassin-s-creed-syndicate-pre-owned", "genre": "Action/Adventure", "developer": "Ubisoft Quebec"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Detroit: Become Human", "url": "https://www.gamesmen.com.au/detroit-become-human", "genre": "Action/Adventure", "developer": "Quantic Dream"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Persona 5", "url": "https://www.gamesmen.com.au/persona-5", "genre": "RPG", "developer": "Atlus"},
-{"publisher": "2K Sports", "classification": "General (G)", "title": "NBA 2K18 [Pre-Owned]", "url": "https://www.gamesmen.com.au/nba-2k18-pre-owned", "genre": "Sports", "developer": "Visual Concepts"},
-{"publisher": null, "classification": "General (G)", "title": "AFL Evolution Plus Season Pack 2018", "url": "https://www.gamesmen.com.au/afl-evolution-plus-season-pack-2018", "genre": "Sports", "developer": "Tru Blu Entertainment"},
-{"publisher": "Electronic Arts", "classification": "Mature Accompanied (MA 15+)", "title": "Battlefield V", "url": "https://www.gamesmen.com.au/ps4-battlefield-5", "genre": "Shooter", "developer": "DICE Los Angeles"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Firewall: Zero Hour", "url": "https://www.gamesmen.com.au/firewall-zero-hour", "genre": "Shooter", "developer": "First Contact Entertainment"},
-{"publisher": "Sony Interactive Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "Ratchet & Clank (PlayStation Hits)", "url": "https://www.gamesmen.com.au/ratchet-clank-3", "genre": "Platformer", "developer": "Insomniac Games"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Uncharted: The Nathan Drake Collection (PlayStation Hits)", "url": "https://www.gamesmen.com.au/uncharted-the-nathan-drake-collection-playstation-hits", "genre": "Action/Adventure", "developer": null},
-{"publisher": "Sony Interactive Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "Marvel's Iron Man VR with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/iron-man-vr", "genre": "Action/Adventure", "developer": "Camouflaj"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Arizona Sunshine", "url": "https://www.gamesmen.com.au/arizona-sunshine", "genre": "Shooter", "developer": "Vertigo Games"},
-{"publisher": "Activision", "classification": "General (G)", "title": "Crash Team Racing Nitro-Fueled", "url": "https://www.gamesmen.com.au/crash-team-racing-nitro-fueled-ps4", "genre": "Racing", "developer": "Beenox"},
-{"publisher": "Capcom", "classification": "Mature (M)", "title": "Street Fighter V Champion Edition", "url": "https://www.gamesmen.com.au/street-fighter-v-champions-edition", "genre": "Fighting", "developer": "Capcom"},
-{"publisher": null, "classification": "General (G)", "title": "Minecraft Starter Collection", "url": "https://www.gamesmen.com.au/ps4-minecraft-bedrock", "genre": "Action/Adventure", "developer": "Mojang"},
-{"publisher": "Activision", "classification": "\u200bParental Guidance (PG)", "title": "Crash Bandicoot N.Sane Trilogy", "url": "https://www.gamesmen.com.au/crash-bandicoot-n-sane-trilogy", "genre": "Platformer", "developer": "Vicarious Visions"},
-{"publisher": null, "classification": "General (G)", "title": "AFL Evolution 2", "url": "https://www.gamesmen.com.au/afl-evolution-2-1", "genre": "Sports", "developer": "Tru Blu Entertainment"},
-{"publisher": "Capcom", "classification": "Mature Accompanied (MA 15+)", "title": "Resident Evil 3 with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/resident-evil-3", "genre": "Survival Horror", "developer": "Capcom"},
-{"publisher": "EA Sports", "classification": "Mature Accompanied (MA 15+)", "title": "EA Sports UFC 3", "url": "https://www.gamesmen.com.au/ea-sports-ufc-3-1", "genre": "Sports", "developer": "EA Vancouver"},
-{"publisher": "505 Games", "classification": "General (G)", "title": "Assetto Corsa Competizione with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/assetto-corsa-competizione", "genre": "Racing", "developer": "Racing Simulators & Cockpits"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Watch_Dogs 2 Gold Edition", "url": "https://www.gamesmen.com.au/watch-dogs-2-gold-edition", "genre": "Action/Adventure", "developer": "Ubisoft Montreal"},
-{"publisher": "Activision", "classification": "Mature Accompanied (MA 15+)", "title": "Sekiro: Shadows Die Twice [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-sekiro-shadows-die-twice", "genre": "Action/Adventure", "developer": "FromSoftware"},
-{"publisher": "Square Enix", "classification": "Mature (M)", "title": "Final Fantasy: XIV Shadowbringers", "url": "https://www.gamesmen.com.au/final-fantasy-xiv-shadowbringers", "genre": "RPG", "developer": "Square Enix"},
-{"publisher": "Sony Interactive Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "Concrete Genie", "url": "https://www.gamesmen.com.au/concrete-genie", "genre": "Action/Adventure", "developer": "Pixelopus"},
-{"publisher": "Koei Tecmo", "classification": "Mature Accompanied (MA 15+)", "title": "Nioh (Playstation Hits)", "url": "https://www.gamesmen.com.au/ps4-nioh-hits", "genre": "Action/Adventure", "developer": "Team Ninja"},
-{"publisher": null, "classification": "Mature (M)", "title": "Fortnite: Darkfire Bundle", "url": "https://www.gamesmen.com.au/fortnite-darkfire-bundle-1", "genre": "Action/Adventure", "developer": "18POINT2"},
-{"publisher": "Rockstar Games", "classification": "Restricted (R 18+)", "title": "Grand Theft Auto V Premium Edition", "url": "https://www.gamesmen.com.au/grand-theft-auto-v-premium-edition", "genre": "Action/Adventure", "developer": "Rockstar North"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "No Man's Sky Beyond", "url": "https://www.gamesmen.com.au/no-man-s-sky-beyond", "genre": "Action/Adventure", "developer": "Hello Games"},
-{"publisher": "Square Enix", "classification": "Restricted (R 18+)", "title": "Life is Strange 2", "url": "https://www.gamesmen.com.au/life-is-strange-2", "genre": "Action/Adventure", "developer": "Dontnod Entertainment"},
-{"publisher": null, "classification": "Restricted (R 18+)", "title": "Zombie Army 4: Dead War", "url": "https://www.gamesmen.com.au/zombie-army-4-dead-war", "genre": "Shooter", "developer": "Sold Out"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Narcos: Rise of the Cartels", "url": "https://www.gamesmen.com.au/narcos-rise-of-the-cartels-2", "genre": "Action/Adventure", "developer": "Curve Digital"},
-{"publisher": null, "classification": "General (G)", "title": "Monster Energy Supercross 3", "url": "https://www.gamesmen.com.au/monster-energy-supercross-3-2", "genre": "Racing", "developer": "18POINT2"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Far Cry 4 Limited Edition", "url": "https://www.gamesmen.com.au/ps4-far-cry-4-limited-edition", "genre": "Shooter", "developer": "Ubisoft Montreal"},
-{"publisher": null, "classification": "General (G)", "title": "SnowRunner with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/snowrunner-with-pre-order-bonus-dlc", "genre": "Simulation", "developer": "Focus Home Interactive"},
-{"publisher": "Bethesda Softworks", "classification": "Restricted (R 18+)", "title": "Doom", "url": "https://www.gamesmen.com.au/ps4-doom-2015", "genre": "Shooter", "developer": "id Software"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Restricted (R 18+)", "title": "The Order: 1886 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-the-order-1886", "genre": "Action/Adventure", "developer": "Ready At Dawn Studios"},
-{"publisher": "Electronic Arts", "classification": "Mature Accompanied (MA 15+)", "title": "EA Sports UFC [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-ufc", "genre": "Fighting", "developer": "EA Vancouver"},
-{"publisher": "Activision", "classification": "Mature Accompanied (MA 15+)", "title": "Call of Duty: Advanced Warfare [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-call-of-duty-advanced-warfare", "genre": "Shooter", "developer": "Sledgehammer Games"},
-{"publisher": "Activision", "classification": "Mature (M)", "title": "Destiny [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-destiny", "genre": "Shooter", "developer": "Bungie"},
-{"publisher": "Bethesda Softworks", "classification": "Mature (M)", "title": "The Elder Scrolls Online: Tamriel Unlimited [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22137/", "genre": "RPG", "developer": "ZeniMax Online Studios"},
-{"publisher": "Activision", "classification": "Mature (M)", "title": "Overwatch  [Pre-Owned]", "url": "https://www.gamesmen.com.au/overwatch-pre-owned", "genre": "Shooter", "developer": "Blizzard Entertainment"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "LEGO Star Wars: The Force Awakens", "url": "https://www.gamesmen.com.au/lego-star-wars-the-force-awakens-1", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Electronic Arts", "classification": "Mature Accompanied (MA 15+)", "title": "Battlefield 1 [Pre-Owned]", "url": "https://www.gamesmen.com.au/battlefield-1-pre-owned-1", "genre": "Shooter", "developer": "EA DICE"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "PlayStation VR Worlds", "url": "https://www.gamesmen.com.au/vr-worlds", "genre": "Action/Adventure", "developer": "SIE London Studio"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "The Elder Scrolls V: Skyrim VR", "url": "https://www.gamesmen.com.au/the-elder-scrolls-v-skyrim-vr", "genre": "RPG", "developer": "Bethesda Game Studios"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's Ghost Recon: Wildlands [Pre-Owned]", "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-wildlands-pre-owned", "genre": "Shooter", "developer": "Ubisoft Paris"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "LEGO Marvel Superheroes 2", "url": "https://www.gamesmen.com.au/ps4-lego-marvel-superheroes-2", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Bethesda Softworks", "classification": "Restricted (R 18+)", "title": "Wolfenstein II: The New Colossus", "url": "https://www.gamesmen.com.au/wolfenstein-ii-the-new-colossus-2", "genre": "Shooter", "developer": "MachineGames"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "LEGO The Incredibles", "url": "https://www.gamesmen.com.au/lego-the-incredibles", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Activision", "classification": "General (G)", "title": "Spyro Reignited Trilogy", "url": "https://www.gamesmen.com.au/spyro-reignited-trilogy-1", "genre": "Action/Adventure", "developer": "Toys for Bob"},
-{"publisher": "SEGA", "classification": "Mature (M)", "title": "Shenmue I & II", "url": "https://www.gamesmen.com.au/shenmue-i-ii", "genre": "RPG", "developer": "Sega"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Blood & Truth", "url": "https://www.gamesmen.com.au/blood-truth", "genre": "Shooter", "developer": "SIE London Studio"},
-{"publisher": "Ubisoft", "classification": "Restricted (R 18+)", "title": "Watch_Dogs [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-watch-dogs", "genre": "Action/Adventure", "developer": "Ubisoft Montreal"},
-{"publisher": null, "classification": "Check the Classification (CTC)", "title": "Cyberpunk 2077 Day One Edition", "url": "https://www.gamesmen.com.au/cyberpunk-2077-2", "genre": "RPG", "developer": "CD Projekt"},
-{"publisher": "Codemasters", "classification": "General (G)", "title": "GRID [Pre-Owned]", "url": "https://www.gamesmen.com.au/grid-pre-owned", "genre": "Racing", "developer": "Codemasters"},
-{"publisher": null, "classification": "Mature (M)", "title": "The Dwarves [Pre-Owned]", "url": "https://www.gamesmen.com.au/the-dwarves-pre-owned-1", "genre": "RPG", "developer": "THQ Nordic"},
-{"publisher": null, "classification": "Mature (M)", "title": "Prison Architect [Pre-Owned]", "url": "https://www.gamesmen.com.au/prison-architect-pre-owned", "genre": "Strategy", "developer": "Introversion Software"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Blair Witch", "url": "https://www.gamesmen.com.au/blair-witch-1", "genre": "Survival Horror", "developer": "Bloober Team"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Check the Classification (CTC)", "title": "Fast & Furious: Crossroads", "url": "https://www.gamesmen.com.au/fast-furious-crossroads-1", "genre": "Racing", "developer": "Slightly Mad Studios"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Mature (M)", "title": "SWORD ART ONLINE: Alicization Lycoris with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/sword-art-online-alicization-lycoris", "genre": "RPG", "developer": "Aquria"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Hunt: Showdown", "url": "https://www.gamesmen.com.au/hunt-showdown", "genre": "Shooter", "developer": "18POINT2"},
-{"publisher": "Square Enix", "classification": "Check the Classification (CTC)", "title": "Marvel's Avengers Deluxe Edition with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/marvel-s-avengers-deluxe-edition-ps4", "genre": "Action/Adventure", "developer": "Crystal Dynamics"},
-{"publisher": null, "classification": "General (G)", "title": "SnowRunner Premium Edition with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/snowrunner-premium-edition-with-pre-order-bonus-dlc", "genre": "Simulation", "developer": "Focus Home Interactive"},
-{"publisher": "Bandai Namco Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "Trials of Mana", "url": "https://www.gamesmen.com.au/trials-of-mana-1", "genre": "RPG", "developer": "Square Enix"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Moving Out", "url": "https://www.gamesmen.com.au/moving-out-1", "genre": "Puzzle", "developer": "Sold Out"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Mature (M)", "title": "My Hero One's Justice 2", "url": "https://www.gamesmen.com.au/my-hero-one-s-justice-2", "genre": "Fighting", "developer": "Bandai Namco Studios"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Hitman Definitive Edition", "url": "https://www.gamesmen.com.au/hitman-definitive-edition", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Square Enix", "classification": "Check the Classification (CTC)", "title": "Outriders: Deluxe Edition", "url": "https://www.gamesmen.com.au/outriders-deluxe-edition-2", "genre": "RPG", "developer": "People Can Fly"},
-{"publisher": null, "classification": "General (G)", "title": "Drone Championship League The Game", "url": "https://www.gamesmen.com.au/drone-championship-league-the-game", "genre": "Racing", "developer": "THQ Nordic"},
-{"publisher": "SEGA", "classification": "\u200bParental Guidance (PG)", "title": "Two Point Hospital", "url": "https://www.gamesmen.com.au/ps4-two-point-hospital", "genre": "Simulation", "developer": "Two Point Studios"},
-{"publisher": "Bandai Namco Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "One Piece: Pirate Warriors 4 with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/one-piece-pirate-warriors-4", "genre": "RPG", "developer": "Bandai Namco Studios"},
-{"publisher": "SEGA", "classification": "Mature (M)", "title": "Shining Resonance Refrain", "url": "https://www.gamesmen.com.au/shining-resonance-refrain-1", "genre": "RPG", "developer": "Sega"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "God of War (Playstation Hits)", "url": "https://www.gamesmen.com.au/ps4-god-of-war-hits", "genre": "Action/Adventure", "developer": "SIE Santa Monica Studio"},
-{"publisher": "Disney Interactive Studios", "classification": "General (G)", "title": "Disney Classic Games: Aladdin and The Lion King", "url": "https://www.gamesmen.com.au/disney-classic-games-aladdin-and-the-lion-king", "genre": "Action/Adventure", "developer": "Nighthawk Interactive"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Uncharted: The Lost Legacy (Playstation Hits)", "url": "https://www.gamesmen.com.au/ps4-uncharted-lost-legacy-hits", "genre": "Action/Adventure", "developer": null},
-{"publisher": null, "classification": "Check the Classification (CTC)", "title": "Cities Skylines Parklife Edition", "url": "https://www.gamesmen.com.au/cities-skylines-parklife-edition", "genre": "Simulation", "developer": "Paradox Interactive"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Worms Battleground & Worms WMD", "url": "https://www.gamesmen.com.au/worms-battleground-worms-wmd", "genre": "Strategy", "developer": "Team17"},
-{"publisher": "2K Games", "classification": "General (G)", "title": "NBA 2K20 [Pre-Owned]", "url": "https://www.gamesmen.com.au/nba-2k20-pre-owned", "genre": "Sports", "developer": "Visual Concepts"},
-{"publisher": "2K Games", "classification": "Mature Accompanied (MA 15+)", "title": "Borderlands 3 [Pre-Owned]", "url": "https://www.gamesmen.com.au/borderlands-3-pre-owned", "genre": "Shooter", "developer": "Gearbox Software"},
-{"publisher": "Electronic Arts", "classification": "Mature Accompanied (MA 15+)", "title": "Apex Legends Bloodhound Edition", "url": "https://www.gamesmen.com.au/apex-legends-bloodhound-edition-1", "genre": "Shooter", "developer": "Respawn Entertainment"},
-{"publisher": null, "classification": "Restricted (R 18+)", "title": "Neverwinter Nights Enhanced Edition", "url": "https://www.gamesmen.com.au/neverwinter-nights-enhanced-edition-2", "genre": "RPG", "developer": "Skybound Games"},
-{"publisher": "Electronic Arts", "classification": "Mature Accompanied (MA 15+)", "title": "Apex Legends Lifeline Edition", "url": "https://www.gamesmen.com.au/apex-legends-lifeline-edition", "genre": "Shooter", "developer": "Respawn Entertainment"},
-{"publisher": "Electronic Arts", "classification": "Mature (M)", "title": "Star Wars: Jedi Fallen Order [Pre-Owned]", "url": "https://www.gamesmen.com.au/star-wars-jedi-fallen-order-pre-owned", "genre": "RPG", "developer": "Respawn Entertainment"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Uncharted: Drake's Fortune Remastered [Pre-Owned]", "url": "https://www.gamesmen.com.au/uncharted-drake-s-fortune-remastered-pre-owned", "genre": "Action/Adventure", "developer": null},
-{"publisher": "Electronic Arts", "classification": "Mature (M)", "title": "The Sims 4 and Cats and Dogs Bundle", "url": "https://www.gamesmen.com.au/the-sims-4-and-cats-and-dogs-bundle-1", "genre": "Simulation", "developer": "Other Simulation"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "Horizon Zero Dawn Complete Edition [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-horizon-zero-dawn-complete-edition", "genre": "Action/Adventure", "developer": "Guerrilla Games"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's Ghost Recon: Breakpoint Gold Edition", "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-breakpoint-gold-edition-ps4", "genre": "Action/Adventure", "developer": "Ubisoft Paris"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's Ghost Recon: Breakpoint", "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-breakpoint-1", "genre": "Action/Adventure", "developer": "Ubisoft Paris"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's The Division 2 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-tom-clancys-the-division-2", "genre": "Shooter", "developer": "Massive Entertainment"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "MediEvil", "url": "https://www.gamesmen.com.au/medievil-3", "genre": "Action/Adventure", "developer": null},
-{"publisher": "Codemasters", "classification": "General (G)", "title": "GRID Ultimate Edition", "url": "https://www.gamesmen.com.au/grid-ultimate-edition", "genre": "Racing", "developer": "Codemasters"},
-{"publisher": null, "classification": "Check the Classification (CTC)", "title": "Biomutant", "url": "https://www.gamesmen.com.au/biomutant", "genre": "Action/Adventure", "developer": "THQ Nordic"},
-{"publisher": null, "classification": "Check the Classification (CTC)", "title": "Lego Star Wars: The Skywalker Saga", "url": "https://www.gamesmen.com.au/lego-star-wars-the-skywalker-saga", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Bethesda Softworks", "classification": "Check the Classification (CTC)", "title": "Deathloop", "url": "https://www.gamesmen.com.au/deathloop-1", "genre": "Action/Adventure", "developer": "Arkane Studios"},
-{"publisher": "Bethesda Softworks", "classification": "Check the Classification (CTC)", "title": "Ghostwire Tokyo", "url": "https://www.gamesmen.com.au/ghostwire-tokyo-1", "genre": "Action/Adventure", "developer": "Tango Gameworks"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Check the Classification (CTC)", "title": "Elden Ring", "url": "https://www.gamesmen.com.au/elden-ring", "genre": "RPG", "developer": "FromSoftware"},
-{"publisher": "Ubisoft", "classification": "Check the Classification (CTC)", "title": "Watch Dogs Legion", "url": "https://www.gamesmen.com.au/watch-dogs-legion", "genre": "Action/Adventure", "developer": "Ubisoft"},
-{"publisher": "Ubisoft", "classification": "Check the Classification (CTC)", "title": "Watch Dogs Legion Gold Edition", "url": "https://www.gamesmen.com.au/watch-dogs-legion-gold-edition", "genre": "Action/Adventure", "developer": "Ubisoft"},
-{"publisher": "Ubisoft", "classification": "Check the Classification (CTC)", "title": "Gods & Monsters", "url": "https://www.gamesmen.com.au/gods-monsters-1", "genre": "Action/Adventure", "developer": "Ubisoft Quebec"},
-{"publisher": null, "classification": "General (G)", "title": "Monster Jam: Steel Titans", "url": "https://www.gamesmen.com.au/monster-jam-steel-titans", "genre": "Racing", "developer": "THQ Nordic"},
-{"publisher": "Square Enix", "classification": "Check the Classification (CTC)", "title": "Marvel's Avengers with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/marvel-s-avengers", "genre": "Action/Adventure", "developer": "Crystal Dynamics"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Lego DC Super Villains", "url": "https://www.gamesmen.com.au/lego-dc-super-villians", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Sony Interactive Entertainment", "classification": "General (G)", "title": "ASTRO BOT Rescue Mission", "url": "https://www.gamesmen.com.au/astro-bot-rescue-mission", "genre": "Action/Adventure", "developer": "SIE Japan Studio"},
-{"publisher": null, "classification": "General (G)", "title": "Tetris Effect", "url": "https://www.gamesmen.com.au/tetris-effect", "genre": "Puzzle", "developer": "Enhance"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Darksiders 3", "url": "https://www.gamesmen.com.au/darksiders-3", "genre": "Action/Adventure", "developer": "THQ Nordic"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Mutant Football League Dynasty Edition", "url": "https://www.gamesmen.com.au/mutant-football-league-dynasty-edition-1", "genre": "Sports", "developer": "Digital Dreams Entertainment LLC"},
-{"publisher": "2K Sports", "classification": "General (G)", "title": "NBA 2K Playgrounds 2", "url": "https://www.gamesmen.com.au/nba-2k-playgrounds-2-2", "genre": "Sports", "developer": null},
-{"publisher": null, "classification": "General (G)", "title": "Rocket League Ultimate Edition", "url": "https://www.gamesmen.com.au/rocket-league-ultimate-edition-1", "genre": "Sports", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Square Enix", "classification": "Mature Accompanied (MA 15+)", "title": "Shadow of the Tomb Raider [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-shadow-of-the-tomb-raider", "genre": "Action/Adventure", "developer": "Crystal Dynamics"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "RPG Maker MV", "url": "https://www.gamesmen.com.au/rpg-maker-mv-2", "genre": "RPG", "developer": "Nippon Ichi Software (NIS America)"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "The Outer Worlds", "url": "https://www.gamesmen.com.au/the-outer-worlds", "genre": "RPG", "developer": "Take-Two Interactive"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "Fallout 76 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-fallout-76", "genre": "Action/Adventure", "developer": "Bethesda Game Studios"},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "FIFA 19 [Pre-Owned]", "url": "https://www.gamesmen.com.au/fifa-19-pre-owned", "genre": "Sports", "developer": "EA Montreal"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "The Lego Movie 2 Video Game", "url": "https://www.gamesmen.com.au/the-lego-movie-2-video-game", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "SEGA", "classification": "Mature Accompanied (MA 15+)", "title": "Judgment", "url": "https://www.gamesmen.com.au/judgment", "genre": "Action/Adventure", "developer": "Sega"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "God of War III Remastered (Playstation Hits)", "url": "https://www.gamesmen.com.au/god-of-war-iii-remastered-playstation-hits", "genre": "Action/Adventure", "developer": "SIE Santa Monica Studio"},
-{"publisher": "Square Enix", "classification": "Mature Accompanied (MA 15+)", "title": "Just Cause 4 [Pre-Owned]", "url": "https://www.gamesmen.com.au/just-cause-4-pre-owned", "genre": "Action/Adventure", "developer": "Avalanche Software"},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "FIFA 18 [Pre-Owned]", "url": "https://www.gamesmen.com.au/fifa-18-pre-owned", "genre": "Sports", "developer": "EA Vancouver"},
-{"publisher": "Ubisoft", "classification": "Mature (M)", "title": "Space Junkies", "url": "https://www.gamesmen.com.au/space-junkies", "genre": "Action/Adventure", "developer": "Ubisoft"},
-{"publisher": null, "classification": "General (G)", "title": "MX vs ATV All Out", "url": "https://www.gamesmen.com.au/mx-vs-atv-all-out", "genre": "Racing", "developer": "THQ Nordic"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Uncharted: The Nathan Drake Collection [Pre-Owned]", "url": "https://www.gamesmen.com.au/uncharted-the-nathan-drake-collection-pre-owned", "genre": "Action/Adventure", "developer": null},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Middle-Earth: Shadow of War [Pre-Owned]", "url": "https://www.gamesmen.com.au/middle-earth-shadow-of-war-pre-owned-1", "genre": "Action/Adventure", "developer": "Monolith Productions"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Warhammer: The End Times - Vermintide [Pre-Owned]", "url": "https://www.gamesmen.com.au/warhammer-the-end-times-vermintide-pre-owned-1", "genre": "Shooter", "developer": "Nordic Games"},
-{"publisher": "Bethesda Softworks", "classification": "Restricted (R 18+)", "title": "Wolfenstein II: The New Colossus [Pre-Owned]", "url": "https://www.gamesmen.com.au/wolfenstein-ii-the-new-colossus-pre-owned-1", "genre": "Shooter", "developer": "MachineGames"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Injustice 2 Legendary Edition", "url": "https://www.gamesmen.com.au/injustice-2-legendary-edition-1", "genre": "Fighting", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "EA Sports", "classification": "\u200bParental Guidance (PG)", "title": "Madden NFL 18 [Pre-Owned]", "url": "https://www.gamesmen.com.au/madden-nfl-18-pre-owned-1", "genre": "Sports", "developer": "EA Tiburon"},
-{"publisher": "Capcom", "classification": "Mature (M)", "title": "Monster Hunter World [Pre-Owned]", "url": "https://www.gamesmen.com.au/monster-hunter-world-pre-owned", "genre": "Action/Adventure", "developer": "Capcom"},
-{"publisher": null, "classification": "Check the Classification (CTC)", "title": "Dying Light 2", "url": "https://www.gamesmen.com.au/dying-light-2", "genre": "Action/Adventure", "developer": "Techland"},
-{"publisher": "Bandai Namco Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "New Gundam Breaker", "url": "https://www.gamesmen.com.au/new-gundam-breaker", "genre": "RPG", "developer": "Bandai Namco Studios"},
-{"publisher": "Square Enix", "classification": "Check the Classification (CTC)", "title": "Babylon's Fall", "url": "https://www.gamesmen.com.au/babylons-fall", "genre": "Action/Adventure", "developer": "PlatinumGames"},
-{"publisher": "Bethesda Softworks", "classification": "Restricted (R 18+)", "title": "Wolfenstein: Youngblood Deluxe Edition", "url": "https://www.gamesmen.com.au/wolfenstein-youngblood-2", "genre": "Shooter", "developer": "MachineGames"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "Rage 2", "url": "https://www.gamesmen.com.au/rage-2-2", "genre": "Shooter", "developer": "id Software"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "Wolfenstein: Cyberpilot", "url": "https://www.gamesmen.com.au/wolfenstein-cyberpilot", "genre": "Shooter", "developer": "Bethesda Game Studios"},
-{"publisher": null, "classification": "General (G)", "title": "LEGO Harry Potter Collection", "url": "https://www.gamesmen.com.au/lego-harry-potter-collection", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Rockstar Games", "classification": "Mature Accompanied (MA 15+)", "title": "Red Dead Redemption 2", "url": "https://www.gamesmen.com.au/red-dead-redemption-2", "genre": "Action/Adventure", "developer": "Rockstar San Diego"},
-{"publisher": "Square Enix", "classification": "\u200bParental Guidance (PG)", "title": "Kingdom Hearts HD 1.5 + 2.5 Remix", "url": "https://www.gamesmen.com.au/kingdom-hearts-hd-1-5-2-5-remix", "genre": "Action/Adventure", "developer": "Square Enix"},
-{"publisher": null, "classification": "General (G)", "title": "Don Bradman Cricket 17", "url": "https://www.gamesmen.com.au/don-bradman-cricket-17", "genre": "Sports", "developer": "Tru Blu Entertainment"},
-{"publisher": "Koei Tecmo", "classification": "Mature Accompanied (MA 15+)", "title": "Nioh", "url": "https://www.gamesmen.com.au/nioh", "genre": "Action/Adventure", "developer": "Team Ninja"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Check the Classification (CTC)", "title": "The Last of Us Part II", "url": "https://www.gamesmen.com.au/the-last-of-us-part-ii", "genre": "Action/Adventure", "developer": null},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "FIFA 17 [Pre-Owned]", "url": "https://www.gamesmen.com.au/fifa-17-pre-owned-1", "genre": "Sports", "developer": "EA Vancouver"},
-{"publisher": "2K Sports", "classification": "General (G)", "title": "NBA 2K17 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-nba-2k17", "genre": "Sports", "developer": "Visual Concepts"},
-{"publisher": "Square Enix", "classification": "Mature (M)", "title": "Final Fantasy XV [Pre-Owned]", "url": "https://www.gamesmen.com.au/final-fantasy-xv-pre-owned", "genre": "RPG", "developer": "Square Enix"},
-{"publisher": "Konami", "classification": "General (G)", "title": "Pro Evolution Soccer 2017 [Pre-Owned]", "url": "https://www.gamesmen.com.au/pro-evolution-soccer-2017-pre-owned", "genre": "Sports", "developer": "Konami Computer Entertainment Japan"},
-{"publisher": "Electronic Arts", "classification": "Mature Accompanied (MA 15+)", "title": "Mass Effect: Andromeda [Pre-Owned]", "url": "https://www.gamesmen.com.au/mass-effect-andromeda-pre-owned", "genre": "RPG", "developer": "BioWare"},
-{"publisher": "Ubisoft", "classification": "\u200bParental Guidance (PG)", "title": "Steep [Pre-Owned]", "url": "https://www.gamesmen.com.au/steep-pre-owned", "genre": "Sports", "developer": "Ubisoft Annecy"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Middle-Earth: Shadow of War (U.S Import)", "url": "https://www.gamesmen.com.au/middle-earth-shadow-of-war", "genre": "Action/Adventure", "developer": "Monolith Productions"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Injustice 2 [Pre-Owned]", "url": "https://www.gamesmen.com.au/injustice-2-pre-owned", "genre": "Fighting", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "Dishonored: Death of the Outsider", "url": "https://www.gamesmen.com.au/dishonored-death-of-the-outsider-1", "genre": "Action/Adventure", "developer": "Arkane Studios"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Batman: The Telltale Series [Pre-Owned]", "url": "https://www.gamesmen.com.au/batman-the-telltale-series-pre-owned", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Restricted (R 18+)", "title": "The Witcher 3: Wild Hunt [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22128/", "genre": "RPG", "developer": "CD Projekt RED"},
-{"publisher": null, "classification": "Mature (M)", "title": "Batman: Arkham Knight [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22132/", "genre": "Action/Adventure", "developer": "Rocksteady Studios"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Terraria [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-terraria", "genre": "Action/Adventure", "developer": "All Interactive Entertainment Games"},
-{"publisher": "Electronic Arts", "classification": "General (G)", "title": "FIFA 16 [Pre-Owned]", "url": "https://www.gamesmen.com.au/po-ps4-fifa-2016", "genre": "Sports", "developer": "EA Vancouver"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Tales of Zestiria [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-tales-of-zestiria", "genre": "Action/Adventure", "developer": "tri-Crescendo"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "Fallout 4 [Pre-Owned]", "url": "https://www.gamesmen.com.au/fallout-4", "genre": "RPG", "developer": "Bethesda Game Studios"},
-{"publisher": "Konami", "classification": "General (G)", "title": "Pro Evolution Soccer 2016 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-pro-evolution-soccer-2016", "genre": "Sports", "developer": "Konami Computer Entertainment Japan"},
-{"publisher": "Square Enix", "classification": "Mature (M)", "title": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below [Pre-Owned]", "url": "https://www.gamesmen.com.au/dragon-quest-heroes-the-world-tree-s-woe-and-the-blight-below-pre-owned", "genre": "RPG", "developer": "Omega Force"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's Rainbow Six Siege [Pre-Owned]", "url": "https://www.gamesmen.com.au/tom-clancy-s-rainbow-six-siege-pre-owned", "genre": "Shooter", "developer": "Ubisoft Montreal"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Days Gone", "url": "https://www.gamesmen.com.au/days-gone", "genre": "Action/Adventure", "developer": "SIE Bend Studio"},
-{"publisher": "Ubisoft", "classification": "\u200bParental Guidance (PG)", "title": "Steep", "url": "https://www.gamesmen.com.au/steep-1", "genre": "Sports", "developer": "Ubisoft Annecy"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Death Stranding", "url": "https://www.gamesmen.com.au/death-stranding", "genre": "Action/Adventure", "developer": "Kojima Productions"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "Marvel's Spider-Man", "url": "https://www.gamesmen.com.au/spider-man", "genre": "Action/Adventure", "developer": "Insomniac Games"},
-{"publisher": "Square Enix", "classification": "Mature Accompanied (MA 15+)", "title": "Rise of the Tomb Raider 20th Year Celebration (U.S. Import)", "url": "https://www.gamesmen.com.au/ps4-rise-of-the-tomb-raider", "genre": "Action/Adventure", "developer": "Crystal Dynamics"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Mature (M)", "title": "Tekken 7", "url": "https://www.gamesmen.com.au/tekken-7-1", "genre": "Fighting", "developer": "Capcom"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "God of War III Remastered (U.S Import)", "url": "https://www.gamesmen.com.au/ps4-god-of-war-3-remastered-price-not-confirmed", "genre": "Action/Adventure", "developer": "SIE Santa Monica Studio"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "inFAMOUS: Second Son [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-infamous-second-son", "genre": "Action/Adventure", "developer": "Sucker Punch Productions"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "Fallout 4", "url": "https://www.gamesmen.com.au/ps4-fallout-4", "genre": "RPG", "developer": "Bethesda Game Studios"},
-{"publisher": "SEGA", "classification": "Mature (M)", "title": "Shenmue III Day One Edition", "url": "https://www.gamesmen.com.au/ps4-shenmue-3", "genre": "Action/Adventure", "developer": "Sega"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Middle-Earth: The Shadow of Mordor [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-middle-earth-shadow-of-mordor", "genre": "Action/Adventure", "developer": "Monolith Productions"},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "Madden NFL 15 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-madden-nfl-15", "genre": "Sports", "developer": "EA Tiburon"},
-{"publisher": "Capcom", "classification": "Mature Accompanied (MA 15+)", "title": "Resident Evil Origins Collection (U.S Import)", "url": "https://www.gamesmen.com.au/ps4-resident-evil-origins-collection", "genre": "Survival Horror", "developer": "Capcom"},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "FIFA 15 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-fifa-15", "genre": "Sports", "developer": "EA Vancouver"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Injustice: Gods Among Us - Ultimate Edition [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22089/", "genre": "Fighting", "developer": "NetherRealm Studios"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Minecraft: PlayStation 4 Edition [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22086/", "genre": "Action/Adventure", "developer": "Mojang"},
-{"publisher": "Ubisoft", "classification": "\u200bParental Guidance (PG)", "title": "The Crew [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-fifa-2016", "genre": "Racing", "developer": "Racing Simulators & Cockpits"},
-{"publisher": "Electronic Arts", "classification": "Mature Accompanied (MA 15+)", "title": "Battlefield: Hardline [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22107/", "genre": "Shooter", "developer": "Visceral Games"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "LEGO Marvel's Avengers [Pre-Owned]", "url": "https://www.gamesmen.com.au/lego-marvel-s-avengers-pre-owned", "genre": "Action/Adventure", "developer": "Traveller's Tales (TT Games/TT Fusion)"},
-{"publisher": "2K Games", "classification": "Mature Accompanied (MA 15+)", "title": "Borderlands: The Handsome Collection [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-borderlands-the-handsome-collection", "genre": "Shooter", "developer": "Gearbox Software"},
-{"publisher": "Sony Interactive Entertainment", "classification": "General (G)", "title": "Hustle Kings VR", "url": "https://www.gamesmen.com.au/hustle-kings-vr", "genre": "Sports", "developer": "EPOS Game Studios"},
-{"publisher": null, "classification": "Restricted (R 18+)", "title": "The Witcher 3: Wild Hunt Game of the Year Edition", "url": "https://www.gamesmen.com.au/the-witcher-3-wild-hunt-game-of-the-year-edition-2", "genre": "RPG", "developer": "CD Projekt"},
-{"publisher": "2K Games", "classification": "Mature (M)", "title": "Battleborn [Pre-Owned]", "url": "https://www.gamesmen.com.au/battleborn-pre-owned", "genre": "Shooter", "developer": "Gearbox Software"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Battlezone", "url": "https://www.gamesmen.com.au/battlezone", "genre": "Shooter", "developer": "Rebellion"},
-{"publisher": null, "classification": "Mature (M)", "title": "EVE: Valkyrie", "url": "https://www.gamesmen.com.au/eve-valkyrie", "genre": "Shooter", "developer": "CCP Games"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "No Man's Sky [Pre-Owned]", "url": "https://www.gamesmen.com.au/no-man-s-sky-pre-owned", "genre": "Action/Adventure", "developer": "Hello Games"},
-{"publisher": "Ubisoft", "classification": "Check the Classification (CTC)", "title": "Skull & Bones", "url": "https://www.gamesmen.com.au/ps4-skull-bones", "genre": "Action/Adventure", "developer": "Ubisoft Singapore"},
-{"publisher": "Ubisoft", "classification": "Check the Classification (CTC)", "title": "Beyond Good & Evil 2", "url": "https://www.gamesmen.com.au/beyond-good-evil-2", "genre": "Action/Adventure", "developer": "Ubisoft Montpellier"},
-{"publisher": "Square Enix", "classification": "Mature Accompanied (MA 15+)", "title": "Deus Ex: Mankind Divided [Pre-Owned]", "url": "https://www.gamesmen.com.au/deus-ex-mankind-divided-pre-owned", "genre": "Action/Adventure", "developer": "Eidos Montreal"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "Shadow of the Colossus", "url": "https://www.gamesmen.com.au/ps4-shadow-of-the-colossus", "genre": "Action/Adventure", "developer": "SIE Japan Studio"},
-{"publisher": "Bandai Namco Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "Ni No Kuni II: Revenant Kingdom", "url": "https://www.gamesmen.com.au/ni-no-kuni-ii-revenant-kingdom", "genre": "RPG", "developer": "Level-5"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Check the Classification (CTC)", "title": "Ghost of Tsushima with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/ghost-of-tsushima", "genre": "Action/Adventure", "developer": "Sucker Punch Productions"},
-{"publisher": "Bethesda Softworks", "classification": "Restricted (R 18+)", "title": "Doom VFR", "url": "https://www.gamesmen.com.au/doom-vfr", "genre": "Shooter", "developer": "id Software"},
-{"publisher": null, "classification": "Mature (M)", "title": "Agents of Mayhem [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-agents-of-mayhem", "genre": "Action/Adventure", "developer": "Deep Silver"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Check the Classification (CTC)", "title": "Twin Mirror", "url": "https://www.gamesmen.com.au/twin-mirror", "genre": "Action/Adventure", "developer": "Dontnod Entertainment"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Assassin's Creed: Origins [Pre-Owned]", "url": "https://www.gamesmen.com.au/assassin-s-creed-origins-pre-owned", "genre": "Action/Adventure", "developer": "Ubisoft Montreal"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "inFAMOUS: Second Son (PlayStation Hits)", "url": "https://www.gamesmen.com.au/infamous-second-son", "genre": "Action/Adventure", "developer": "Sucker Punch Productions"},
-{"publisher": "Ubisoft", "classification": "Mature Accompanied (MA 15+)", "title": "Tom Clancy's The Division 2 Gold Edition", "url": "https://www.gamesmen.com.au/tom-clancy-s-the-division-2-gold-edition", "genre": "Shooter", "developer": "Massive Entertainment"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Killzone: Shadow Fall (PlayStation Hits)", "url": "https://www.gamesmen.com.au/killzone-shadow-fall", "genre": "Shooter", "developer": "Guerrilla Games"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "God of War [Pre-Owned]", "url": "https://www.gamesmen.com.au/god-of-war-pre-owned", "genre": "Action/Adventure", "developer": "SIE San Diego Studio"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Restricted (R 18+)", "title": "The Last of Us Remastered (PlayStation Hits)", "url": "https://www.gamesmen.com.au/the-last-of-us-remastered", "genre": "Survival Horror", "developer": null},
-{"publisher": null, "classification": "General (G)", "title": "LittleBigPlanet 3 (PlayStation Hits)", "url": "https://www.gamesmen.com.au/littlebigplanet-3", "genre": "Family/Kids", "developer": "Sumo Digital"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "The Persistence", "url": "https://www.gamesmen.com.au/the-persistence", "genre": "Survival Horror", "developer": "Firesprite Ltd"},
-{"publisher": null, "classification": "Restricted (R 18+)", "title": "This Is The Police [Pre-Owned]", "url": "https://www.gamesmen.com.au/this-is-the-police-pre-owned-1", "genre": "Strategy", "developer": "THQ Nordic"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Disgaea 1 Complete", "url": "https://www.gamesmen.com.au/disgaea-1-complete-1", "genre": "RPG", "developer": "Nippon Ichi Software (NIS America)"},
-{"publisher": "Square Enix", "classification": "\u200bParental Guidance (PG)", "title": "Kingdom Hearts III [Pre-Owned]", "url": "https://www.gamesmen.com.au/kingdom-hearts-iii-pre-owned", "genre": "Action/Adventure", "developer": "Square Enix"},
-{"publisher": null, "classification": "Mature (M)", "title": "Phar Lap: Horse Racing Challenge", "url": "https://www.gamesmen.com.au/pharlap-horse-riding-challenge", "genre": "Sports", "developer": "Tru Blu Entertainment"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Metro Exodus [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-metro-exodus", "genre": "Shooter", "developer": "Deep Silver"},
-{"publisher": "Nintendo", "classification": "\u200bParental Guidance (PG)", "title": "Shovel Knight: Treasure Trove", "url": "https://www.gamesmen.com.au/shovel-knight-treasure-trove", "genre": "Action/Adventure", "developer": "Yacht Club Games"},
-{"publisher": "Electronic Arts", "classification": "Mature (M)", "title": "Anthem [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-anthem", "genre": "Action/Adventure", "developer": "BioWare"},
-{"publisher": "Konami", "classification": "General (G)", "title": "Pro Evolution Soccer 2019 [Pre-Owned]", "url": "https://www.gamesmen.com.au/p-o-ps4-pro-evolution-soccer-2019", "genre": "Sports", "developer": "Konami Computer Entertainment Japan"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Darksiders: Genesis", "url": "https://www.gamesmen.com.au/darksiders-genesis-1", "genre": "RPG", "developer": "THQ Nordic"},
-{"publisher": "Konami", "classification": "Mature (M)", "title": "Contra: Rouge Corps", "url": "https://www.gamesmen.com.au/contra-rouge-corps", "genre": "Shooter", "developer": "Konami Computer Entertainment Japan"},
-{"publisher": "2K Sports", "classification": "Mature (M)", "title": "WWE 2K20", "url": "https://www.gamesmen.com.au/ps4-wwe-2k20", "genre": "Sports", "developer": "Visual Concepts"},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "NHL 20", "url": "https://www.gamesmen.com.au/nhl-20", "genre": "Sports", "developer": "EA Vancouver"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Disgaea 4 Complete +", "url": "https://www.gamesmen.com.au/disgaea-4-complete", "genre": "RPG", "developer": "Nippon Ichi Software (NIS America)"},
-{"publisher": null, "classification": "Mature (M)", "title": "Baldur\u2019s Gate & Baldur\u2019s Gate II Enhanced Edition", "url": "https://www.gamesmen.com.au/baldur-s-gate-baldur-s-gate-ii-enhanced-edition-2", "genre": "RPG", "developer": "Skybound Games"},
-{"publisher": "Bandai Namco Entertainment", "classification": "Mature (M)", "title": "One Punch Man: A Hero Nobody Knows", "url": "https://www.gamesmen.com.au/one-punch-man-a-hero-nobody-knows-1", "genre": "Fighting", "developer": "Bandai Namco Studios"},
-{"publisher": null, "classification": null, "title": "Death's Gambit", "url": "https://www.gamesmen.com.au/death-s-gambit", "genre": "Platformer", "developer": "Skybound Games"},
-{"publisher": "Square Enix", "classification": "\u200bParental Guidance (PG)", "title": "World of Final Fantasy [Pre-Owned] (PS4)", "url": "https://www.gamesmen.com.au/world-of-final-fantasy-pre-owned-ps4", "genre": "RPG", "developer": "Square Enix"},
-{"publisher": "Bandai Namco Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "New Gundam Breaker [Pre-Owned]", "url": "https://www.gamesmen.com.au/new-gundam-breaker-pre-owned", "genre": "RPG", "developer": "Bandai Namco Studios"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Check the Classification (CTC)", "title": "Predator: Hunting Grounds with Pre-Order Bonus DLC", "url": "https://www.gamesmen.com.au/predator-hunting-grounds", "genre": "Shooter", "developer": "Illfonic"},
-{"publisher": null, "classification": "General (G)", "title": "Cooking Mama: Cookstar", "url": "https://www.gamesmen.com.au/placeholder-code-128", "genre": "Simulation", "developer": "Ravens Court"},
-{"publisher": null, "classification": "Mature (M)", "title": "Touhou Kobuto V: Burst Battle [Pre-Owned]", "url": "https://www.gamesmen.com.au/touhou-kobuto-v-burst-battle-pre-owned", "genre": "Action/Adventure", "developer": "Nippon Ichi Software (NIS America)"},
-{"publisher": "SEGA", "classification": "Mature Accompanied (MA 15+)", "title": "The Yakuza Remastered Collection Day One Edition", "url": "https://www.gamesmen.com.au/the-yakuza-remastered-collection", "genre": "RPG", "developer": "Sega"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "Touhou Genso Rondo: Bullet Ballet [Pre-Owned] (PS4)", "url": "https://www.gamesmen.com.au/touhou-genso-rondo-bullet-ballet-pre-owned-ps4", "genre": "Arcade", "developer": "Nippon Ichi Software (NIS America)"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "The Wonderful 101 Remastered", "url": "https://www.gamesmen.com.au/the-wonderful-101-remastered", "genre": "Action/Adventure", "developer": "Nighthawk Interactive"},
-{"publisher": "505 Games", "classification": "Mature Accompanied (MA 15+)", "title": "Journey to the Savage Planet", "url": "https://www.gamesmen.com.au/journey-to-the-savage-planet-1", "genre": "Action/Adventure", "developer": "Typhoon Studios"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Dollhouse", "url": "https://www.gamesmen.com.au/dollhouse", "genre": "Survival Horror", "developer": "SOEDESCO"},
-{"publisher": null, "classification": "General (G)", "title": "The Sojourn", "url": "https://www.gamesmen.com.au/the-sojourn", "genre": "Action/Adventure", "developer": "Five Star Games"},
-{"publisher": null, "classification": "General (G)", "title": "Descenders", "url": "https://www.gamesmen.com.au/descenders", "genre": "Racing", "developer": "No More Robots"},
-{"publisher": "Square Enix", "classification": "\u200bParental Guidance (PG)", "title": "Kingdom Hearts III", "url": "https://www.gamesmen.com.au/ps4-kingdom-hearts-3", "genre": "Action/Adventure", "developer": "Square Enix"},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "LEGO Marvel's Avengers", "url": "https://www.gamesmen.com.au/ps4-lego-marvel-avengers", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": null, "classification": "Mature Accompanied (MA 15+)", "title": "Uncharted 4: A Thief's End (PlayStation Hits)", "url": "https://www.gamesmen.com.au/uncharted-4-a-thief-s-end-1", "genre": "Action/Adventure", "developer": null},
-{"publisher": null, "classification": "\u200bParental Guidance (PG)", "title": "LEGO Jurassic World", "url": "https://www.gamesmen.com.au/ps4-lego-jurassic-world", "genre": "Action/Adventure", "developer": "Warner Bros. Interactive Entertainment"},
-{"publisher": "Ubisoft", "classification": "\u200bParental Guidance (PG)", "title": "Trials Rising Gold Edition", "url": "https://www.gamesmen.com.au/trials-rising-gold-edition-with-pre-order-bonus-dlc-1", "genre": "Racing", "developer": "Redlynx"},
-{"publisher": "Bethesda Softworks", "classification": "Mature Accompanied (MA 15+)", "title": "The Elder Scrolls V: Skyrim VR [Pre-Owned]", "url": "https://www.gamesmen.com.au/the-elder-scrolls-v-skyrim-vr-pre-owned", "genre": "RPG", "developer": "Bethesda Game Studios"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature Accompanied (MA 15+)", "title": "Bloodborne (PlayStation Hits)", "url": "https://www.gamesmen.com.au/bloodborne", "genre": "RPG", "developer": "FromSoftware"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Restricted (R 18+)", "title": "Until Dawn (PlayStation Hits)", "url": "https://www.gamesmen.com.au/until-dawn-playstation-hits", "genre": "Survival Horror", "developer": "Supermassive Games"},
-{"publisher": "Bandai Namco Entertainment", "classification": "\u200bParental Guidance (PG)", "title": "Dragon Ball Z: Kakarot", "url": "https://www.gamesmen.com.au/dragon-ball-z-kakarot", "genre": "Action/Adventure", "developer": "CyberConnect2"},
-{"publisher": "Sony Interactive Entertainment", "classification": "Mature (M)", "title": "Horizon Zero Dawn Complete Edition (Playstation Hits)", "url": "https://www.gamesmen.com.au/horizon-zero-dawn-complete-edition-playstation-hits", "genre": "Action/Adventure", "developer": "Guerrilla Games"},
-{"publisher": "Sony Interactive Entertainment", "classification": "General (G)", "title": "Everybody's Golf VR", "url": "https://www.gamesmen.com.au/everybody-s-golf-vr", "genre": "Sports", "developer": "Clap Hanz"},
-{"publisher": "Electronic Arts", "classification": "General (G)", "title": "Madden NFL 16 [Pre-Owned]", "url": "https://www.gamesmen.com.au/catalog/product/view/id/22163/", "genre": "Sports", "developer": "EA Tiburon"},
-{"publisher": "Ubisoft", "classification": "Mature (M)", "title": "Assassin's Creed Chronicles", "url": "https://www.gamesmen.com.au/assassin-s-creed-chronicles", "genre": "Action/Adventure", "developer": "Climax Studios"},
-{"publisher": "Square Enix", "classification": "Mature Accompanied (MA 15+)", "title": "Just Cause 3 [Pre-Owned]", "url": "https://www.gamesmen.com.au/just-cause-3-pre-owned", "genre": "Action/Adventure", "developer": "Avalanche Studios"},
-{"publisher": "EA Sports", "classification": "General (G)", "title": "Madden NFL 17 [Pre-Owned]", "url": "https://www.gamesmen.com.au/madden-nfl-17-pre-onwed", "genre": "Sports", "developer": "EA Tiburon"},
-{"publisher": "Activision", "classification": "Mature (M)", "title": "Destiny 2 [Pre-Owned]", "url": "https://www.gamesmen.com.au/destiny-2-pre-owned", "genre": "Shooter", "developer": "Bungie"},
-{"publisher": "Electronic Arts", "classification": "Mature (M)", "title": "Need for Speed Payback", "url": "https://www.gamesmen.com.au/need-for-speed-payback-1", "genre": "Racing", "developer": "Ghost Games"},
-{"publisher": null, "classification": "General (G)", "title": "Rugby League Live 4", "url": "https://www.gamesmen.com.au/rugby-league-live-4", "genre": "Sports", "developer": "Tru Blu Entertainment"}
+    {
+        "publisher": "2K Games",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Borderlands 3",
+        "url": "https://www.gamesmen.com.au/borderlands-3",
+        "genre": "Shooter",
+        "developer": "Gearbox Software"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Restricted (R 18+)",
+        "title": "Doom Eternal",
+        "url": "https://www.gamesmen.com.au/doom-eternal-2",
+        "genre": "Shooter",
+        "developer": "id Software"
+    },
+    {
+        "publisher": "Activision",
+        "classification": "General (G)",
+        "title": "Crash Team Racing Nitro-Fueled",
+        "url": "https://www.gamesmen.com.au/crash-team-racing-nitro-fueled-ps4",
+        "genre": "Racing",
+        "developer": "Beenox"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Resident Evil 3 with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/resident-evil-3",
+        "genre": "Survival Horror",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Assassin's Creed 3 Remastered",
+        "url": "https://www.gamesmen.com.au/assassin-s-creed-3-remastered",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "AFL Evolution 2",
+        "url": "https://www.gamesmen.com.au/afl-evolution-2-1",
+        "genre": "Sports",
+        "developer": "Tru Blu Entertainment"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "General (G)",
+        "title": "Legendary Fishing",
+        "url": "https://www.gamesmen.com.au/legendary-fishing-1",
+        "genre": "Sports",
+        "developer": null
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature (M)",
+        "title": "Space Junkies",
+        "url": "https://www.gamesmen.com.au/space-junkies",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's Ghost Recon: Wildlands Gold Edition",
+        "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-wildlands-gold-edition-1",
+        "genre": "Shooter",
+        "developer": "Ubisoft Paris"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature (M)",
+        "title": "Final Fantasy VII Remake with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/ps4-final-fantasy-vii-remake",
+        "genre": "RPG",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Star Trek: Bridge Crew",
+        "url": "https://www.gamesmen.com.au/star-trek-bridge-crew",
+        "genre": "Action/Adventure",
+        "developer": "Red Storm Entertainment"
+    },
+    {
+        "publisher": "Koei Tecmo",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Nioh 2",
+        "url": "https://www.gamesmen.com.au/nioh-2",
+        "genre": "Action/Adventure",
+        "developer": "Team Ninja"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature (M)",
+        "title": "Need for Speed: Heat",
+        "url": "https://www.gamesmen.com.au/need-for-speed-heat",
+        "genre": "Racing",
+        "developer": "Ghost Games"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Steep X Games Gold Edition",
+        "url": "https://www.gamesmen.com.au/steep-x-games-gold-edition",
+        "genre": "Sports",
+        "developer": null
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "General (G)",
+        "title": "MLB The Show 20 (U.S. Import)",
+        "url": "https://www.gamesmen.com.au/mlb-the-show-20-u-s-import",
+        "genre": "Sports",
+        "developer": "SIE San Diego Studio"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature (M)",
+        "title": "Omen of Sorrow",
+        "url": "https://www.gamesmen.com.au/omen-of-sorrow",
+        "genre": "Fighting",
+        "developer": "SOEDESCO"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "The Crew 2",
+        "url": "https://www.gamesmen.com.au/the-crew-2-1",
+        "genre": "Racing",
+        "developer": "Ivory Tower"
+    },
+    {
+        "publisher": "2K Sports",
+        "classification": "General (G)",
+        "title": "NBA 2K18 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/nba-2k18-pre-owned",
+        "genre": "Sports",
+        "developer": "Visual Concepts"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "AFL Evolution Plus Season Pack 2018",
+        "url": "https://www.gamesmen.com.au/afl-evolution-plus-season-pack-2018",
+        "genre": "Sports",
+        "developer": "Tru Blu Entertainment"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "General (G)",
+        "title": "Everybody's Golf VR",
+        "url": "https://www.gamesmen.com.au/everybody-s-golf-vr",
+        "genre": "Sports",
+        "developer": "Clap Hanz"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Dreams",
+        "url": "https://www.gamesmen.com.au/dreams-1",
+        "genre": "Family/Kids",
+        "developer": "Media Molecule"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "The Outer Worlds",
+        "url": "https://www.gamesmen.com.au/the-outer-worlds",
+        "genre": "RPG",
+        "developer": "Take-Two Interactive"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Uncharted 4: A Thief's End (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/uncharted-4-a-thief-s-end-1",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Check the Classification (CTC)",
+        "title": "Predator: Hunting Grounds with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/predator-hunting-grounds",
+        "genre": "Shooter",
+        "developer": "Illfonic"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "Mature (M)",
+        "title": "Street Fighter V Champion Edition",
+        "url": "https://www.gamesmen.com.au/street-fighter-v-champions-edition",
+        "genre": "Fighting",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Kingdom Hearts III",
+        "url": "https://www.gamesmen.com.au/ps4-kingdom-hearts-3",
+        "genre": "Action/Adventure",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's Rainbow Six Siege",
+        "url": "https://www.gamesmen.com.au/ps3-rainbow-six-patriots",
+        "genre": "Shooter",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature (M)",
+        "title": "Rocksmith 2014 with Real Tone Guitar & Bass Cable",
+        "url": "https://www.gamesmen.com.au/ps4-rocksmith-2014-with-cable",
+        "genre": "Music & Dance",
+        "developer": null
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Assassin's Creed: Origins",
+        "url": "https://www.gamesmen.com.au/ps4-assassins-creed-origins",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Restricted (R 18+)",
+        "title": "The Last of Us Remastered (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/the-last-of-us-remastered",
+        "genre": "Survival Horror",
+        "developer": null
+    },
+    {
+        "publisher": "Activision",
+        "classification": "General (G)",
+        "title": "Spyro Reignited Trilogy",
+        "url": "https://www.gamesmen.com.au/spyro-reignited-trilogy-1",
+        "genre": "Action/Adventure",
+        "developer": "Toys for Bob"
+    },
+    {
+        "publisher": "EA Sports",
+        "classification": "General (G)",
+        "title": "FIFA 19 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/fifa-19-pre-owned",
+        "genre": "Sports",
+        "developer": "EA Montreal"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "General (G)",
+        "title": "Project Cars Complete Edition (U.S. Import)",
+        "url": "https://www.gamesmen.com.au/project-cars-complete-edition",
+        "genre": "Racing",
+        "developer": "Slightly Mad Studios"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's Ghost Recon: Wildlands [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-wildlands-pre-owned",
+        "genre": "Shooter",
+        "developer": "Ubisoft Paris"
+    },
+    {
+        "publisher": "Konami",
+        "classification": "General (G)",
+        "title": "Super Bomberman R Shiny Edition (U.S Import)",
+        "url": "https://www.gamesmen.com.au/super-bomberman-r-shiny-edition-1",
+        "genre": "Arcade",
+        "developer": "Konami Computer Entertainment Japan"
+    },
+    {
+        "publisher": "EA Sports",
+        "classification": "General (G)",
+        "title": "FIFA 18 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/fifa-18-pre-owned",
+        "genre": "Sports",
+        "developer": "EA Vancouver"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "General (G)",
+        "title": "Sonic Mania (U.S Import)",
+        "url": "https://www.gamesmen.com.au/sonic-mania-plus",
+        "genre": "Platformer",
+        "developer": "Sega"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "Mature (M)",
+        "title": "Shenmue I & II",
+        "url": "https://www.gamesmen.com.au/shenmue-i-ii",
+        "genre": "RPG",
+        "developer": "Sega"
+    },
+    {
+        "publisher": null,
+        "classification": "Check the Classification (CTC)",
+        "title": "Cyberpunk 2077 Day One Edition",
+        "url": "https://www.gamesmen.com.au/cyberpunk-2077-2",
+        "genre": "RPG",
+        "developer": "CD Projekt"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Wolfenstein: Cyberpilot",
+        "url": "https://www.gamesmen.com.au/wolfenstein-cyberpilot",
+        "genre": "Shooter",
+        "developer": "Bethesda Game Studios"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Bloodborne (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/bloodborne",
+        "genre": "RPG",
+        "developer": "FromSoftware"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Trials Rising Gold Edition",
+        "url": "https://www.gamesmen.com.au/trials-rising-gold-edition-with-pre-order-bonus-dlc-1",
+        "genre": "Racing",
+        "developer": "Redlynx"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "LittleBigPlanet 3 (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/littlebigplanet-3",
+        "genre": "Family/Kids",
+        "developer": "Sumo Digital"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Ratchet & Clank (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/ratchet-clank-3",
+        "genre": "Platformer",
+        "developer": "Insomniac Games"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Uncharted: The Nathan Drake Collection (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/uncharted-the-nathan-drake-collection-playstation-hits",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Restricted (R 18+)",
+        "title": "Until Dawn (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/until-dawn-playstation-hits",
+        "genre": "Survival Horror",
+        "developer": "Supermassive Games"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Rocket League Ultimate Edition",
+        "url": "https://www.gamesmen.com.au/rocket-league-ultimate-edition-1",
+        "genre": "Sports",
+        "developer": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "publisher": null,
+        "classification": "Check the Classification (CTC)",
+        "title": "Cities Skylines Parklife Edition",
+        "url": "https://www.gamesmen.com.au/cities-skylines-parklife-edition",
+        "genre": "Simulation",
+        "developer": "Paradox Interactive"
+    },
+    {
+        "publisher": "2K Games",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Borderlands 3 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/borderlands-3-pre-owned",
+        "genre": "Shooter",
+        "developer": "Gearbox Software"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Worms Battleground & Worms WMD",
+        "url": "https://www.gamesmen.com.au/worms-battleground-worms-wmd",
+        "genre": "Strategy",
+        "developer": "Team17"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Apex Legends Bloodhound Edition",
+        "url": "https://www.gamesmen.com.au/apex-legends-bloodhound-edition-1",
+        "genre": "Shooter",
+        "developer": "Respawn Entertainment"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Apex Legends Lifeline Edition",
+        "url": "https://www.gamesmen.com.au/apex-legends-lifeline-edition",
+        "genre": "Shooter",
+        "developer": "Respawn Entertainment"
+    },
+    {
+        "publisher": null,
+        "classification": "Restricted (R 18+)",
+        "title": "Neverwinter Nights Enhanced Edition",
+        "url": "https://www.gamesmen.com.au/neverwinter-nights-enhanced-edition-2",
+        "genre": "RPG",
+        "developer": "Skybound Games"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Uncharted: Drake's Fortune Remastered [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/uncharted-drake-s-fortune-remastered-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature (M)",
+        "title": "The Sims 4 and Cats and Dogs Bundle",
+        "url": "https://www.gamesmen.com.au/the-sims-4-and-cats-and-dogs-bundle-1",
+        "genre": "Simulation",
+        "developer": "Other Simulation"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "World of Final Fantasy [Pre-Owned] (PS4)",
+        "url": "https://www.gamesmen.com.au/world-of-final-fantasy-pre-owned-ps4",
+        "genre": "RPG",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Cooking Mama: Cookstar",
+        "url": "https://www.gamesmen.com.au/placeholder-code-128",
+        "genre": "Simulation",
+        "developer": "Ravens Court"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Gundam Versus [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/gundam-versus-pre-owned",
+        "genre": "Fighting",
+        "developer": "Bandai Namco Studios"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature (M)",
+        "title": "Touhou Kobuto V: Burst Battle [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/touhou-kobuto-v-burst-battle-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": "Nippon Ichi Software (NIS America)"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "New Gundam Breaker [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/new-gundam-breaker-pre-owned",
+        "genre": "RPG",
+        "developer": "Bandai Namco Studios"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Touhou Genso Rondo: Bullet Ballet [Pre-Owned] (PS4)",
+        "url": "https://www.gamesmen.com.au/touhou-genso-rondo-bullet-ballet-pre-owned-ps4",
+        "genre": "Arcade",
+        "developer": "Nippon Ichi Software (NIS America)"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "The Yakuza Remastered Collection Day One Edition",
+        "url": "https://www.gamesmen.com.au/the-yakuza-remastered-collection",
+        "genre": "RPG",
+        "developer": "Sega"
+    },
+    {
+        "publisher": "505 Games",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Journey to the Savage Planet",
+        "url": "https://www.gamesmen.com.au/journey-to-the-savage-planet-1",
+        "genre": "Action/Adventure",
+        "developer": "Typhoon Studios"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Check the Classification (CTC)",
+        "title": "Babylon's Fall",
+        "url": "https://www.gamesmen.com.au/babylons-fall",
+        "genre": "Action/Adventure",
+        "developer": "PlatinumGames"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "Check the Classification (CTC)",
+        "title": "Twin Mirror",
+        "url": "https://www.gamesmen.com.au/twin-mirror",
+        "genre": "Action/Adventure",
+        "developer": "Dontnod Entertainment"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "Restricted (R 18+)",
+        "title": "Resident Evil 2 (U.S Import)",
+        "url": "https://www.gamesmen.com.au/resident-evil-2-1",
+        "genre": "Survival Horror",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "inFAMOUS: Second Son (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/infamous-second-son",
+        "genre": "Action/Adventure",
+        "developer": "Sucker Punch Productions"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's The Division 2 Gold Edition",
+        "url": "https://www.gamesmen.com.au/tom-clancy-s-the-division-2-gold-edition",
+        "genre": "Shooter",
+        "developer": "Massive Entertainment"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Killzone: Shadow Fall (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/killzone-shadow-fall",
+        "genre": "Shooter",
+        "developer": "Guerrilla Games"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "God of War [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/god-of-war-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": "SIE San Diego Studio"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "The Elder Scrolls V: Skyrim VR [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/the-elder-scrolls-v-skyrim-vr-pre-owned",
+        "genre": "RPG",
+        "developer": "Bethesda Game Studios"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Disgaea 1 Complete",
+        "url": "https://www.gamesmen.com.au/disgaea-1-complete-1",
+        "genre": "RPG",
+        "developer": "Nippon Ichi Software (NIS America)"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "The Persistence",
+        "url": "https://www.gamesmen.com.au/the-persistence",
+        "genre": "Survival Horror",
+        "developer": "Firesprite Ltd"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "General (G)",
+        "title": "ASTRO BOT Rescue Mission",
+        "url": "https://www.gamesmen.com.au/astro-bot-rescue-mission",
+        "genre": "Action/Adventure",
+        "developer": "SIE Japan Studio"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Lego DC Super Villains",
+        "url": "https://www.gamesmen.com.au/lego-dc-super-villians",
+        "genre": "Action/Adventure",
+        "developer": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Mega Man 11 (U.S Import)",
+        "url": "https://www.gamesmen.com.au/mega-man-11",
+        "genre": "Action/Adventure",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Darksiders 3",
+        "url": "https://www.gamesmen.com.au/darksiders-3",
+        "genre": "Action/Adventure",
+        "developer": "THQ Nordic"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Tetris Effect",
+        "url": "https://www.gamesmen.com.au/tetris-effect",
+        "genre": "Puzzle",
+        "developer": "Enhance"
+    },
+    {
+        "publisher": "2K Sports",
+        "classification": "General (G)",
+        "title": "NBA 2K Playgrounds 2",
+        "url": "https://www.gamesmen.com.au/nba-2k-playgrounds-2-2",
+        "genre": "Sports",
+        "developer": null
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "Mature (M)",
+        "title": "Shenmue III Day One Edition",
+        "url": "https://www.gamesmen.com.au/ps4-shenmue-3",
+        "genre": "Action/Adventure",
+        "developer": "Sega"
+    },
+    {
+        "publisher": "EA Sports",
+        "classification": "General (G)",
+        "title": "Madden NFL 15 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-madden-nfl-15",
+        "genre": "Sports",
+        "developer": "EA Tiburon"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Resident Evil Origins Collection (U.S Import)",
+        "url": "https://www.gamesmen.com.au/ps4-resident-evil-origins-collection",
+        "genre": "Survival Horror",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "EA Sports",
+        "classification": "General (G)",
+        "title": "FIFA 15 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-fifa-15",
+        "genre": "Sports",
+        "developer": "EA Vancouver"
+    },
+    {
+        "publisher": "2K Games",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Borderlands: The Handsome Collection [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-borderlands-the-handsome-collection",
+        "genre": "Shooter",
+        "developer": "Gearbox Software"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Trials Fusion [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/trials-fusion-pre-owned",
+        "genre": "Racing",
+        "developer": "Redlynx"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Terraria [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-terraria",
+        "genre": "Action/Adventure",
+        "developer": "All Interactive Entertainment Games"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Battlefield: Hardline [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/catalog/product/view/id/22107/",
+        "genre": "Shooter",
+        "developer": "Visceral Games"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "General (G)",
+        "title": "FIFA 16 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/po-ps4-fifa-2016",
+        "genre": "Sports",
+        "developer": "EA Vancouver"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Tales of Zestiria [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-tales-of-zestiria",
+        "genre": "Action/Adventure",
+        "developer": "tri-Crescendo"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Just Cause 3 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/just-cause-3-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": "Avalanche Studios"
+    },
+    {
+        "publisher": "Konami",
+        "classification": "General (G)",
+        "title": "Pro Evolution Soccer 2016 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-pro-evolution-soccer-2016",
+        "genre": "Sports",
+        "developer": "Konami Computer Entertainment Japan"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature (M)",
+        "title": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/dragon-quest-heroes-the-world-tree-s-woe-and-the-blight-below-pre-owned",
+        "genre": "RPG",
+        "developer": "Omega Force"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Rise of the Tomb Raider 20th Year Celebration (U.S. Import)",
+        "url": "https://www.gamesmen.com.au/ps4-rise-of-the-tomb-raider",
+        "genre": "Action/Adventure",
+        "developer": "Crystal Dynamics"
+    },
+    {
+        "publisher": "EA Sports",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "UFC 2 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/ufc-2-pre-owned",
+        "genre": "Fighting",
+        "developer": "EA Vancouver"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Resident Evil: Revelations 2 (U.S. Import)",
+        "url": "https://www.gamesmen.com.au/ps4-resident-evil-revelations-2",
+        "genre": "Survival Horror",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "inFAMOUS: Second Son [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-infamous-second-son",
+        "genre": "Action/Adventure",
+        "developer": "Sucker Punch Productions"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "God of War III Remastered (U.S Import)",
+        "url": "https://www.gamesmen.com.au/ps4-god-of-war-3-remastered-price-not-confirmed",
+        "genre": "Action/Adventure",
+        "developer": "SIE Santa Monica Studio"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Fallout 4",
+        "url": "https://www.gamesmen.com.au/ps4-fallout-4",
+        "genre": "RPG",
+        "developer": "Bethesda Game Studios"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Steep",
+        "url": "https://www.gamesmen.com.au/steep-1",
+        "genre": "Sports",
+        "developer": "Ubisoft Annecy"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "PlayStation VR Worlds",
+        "url": "https://www.gamesmen.com.au/vr-worlds",
+        "genre": "Action/Adventure",
+        "developer": "SIE London Studio"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "Mature (M)",
+        "title": "Tekken 7",
+        "url": "https://www.gamesmen.com.au/tekken-7-1",
+        "genre": "Fighting",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "2K Games",
+        "classification": "Mature (M)",
+        "title": "Battleborn [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/battleborn-pre-owned",
+        "genre": "Shooter",
+        "developer": "Gearbox Software"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Deus Ex: Mankind Divided [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/deus-ex-mankind-divided-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": "Eidos Montreal"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "No Man's Sky [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/no-man-s-sky-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": "Hello Games"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Resident Evil 5 (U.S. Import)",
+        "url": "https://www.gamesmen.com.au/resident-evil-5-1",
+        "genre": "Survival Horror",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "EA Sports",
+        "classification": "General (G)",
+        "title": "FIFA 17 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/fifa-17-pre-owned-1",
+        "genre": "Sports",
+        "developer": "EA Vancouver"
+    },
+    {
+        "publisher": "Konami",
+        "classification": "General (G)",
+        "title": "Pro Evolution Soccer 2017 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/pro-evolution-soccer-2017-pre-owned",
+        "genre": "Sports",
+        "developer": "Konami Computer Entertainment Japan"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Middle-Earth: Shadow of War (U.S Import)",
+        "url": "https://www.gamesmen.com.au/middle-earth-shadow-of-war",
+        "genre": "Action/Adventure",
+        "developer": "Monolith Productions"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "General (G)",
+        "title": "Pac-Man Championship Edition 2 + Arcade Game Series (U.S. Import)",
+        "url": "https://www.gamesmen.com.au/pac-man-championship-edition-2-arcade-game-series-u-s-import",
+        "genre": "Arcade",
+        "developer": null
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Restricted (R 18+)",
+        "title": "Wolfenstein II: The New Colossus",
+        "url": "https://www.gamesmen.com.au/wolfenstein-ii-the-new-colossus-2",
+        "genre": "Shooter",
+        "developer": "MachineGames"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Check the Classification (CTC)",
+        "title": "Skull & Bones",
+        "url": "https://www.gamesmen.com.au/ps4-skull-bones",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Singapore"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Mass Effect: Andromeda [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/mass-effect-andromeda-pre-owned",
+        "genre": "RPG",
+        "developer": "BioWare"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Dishonored: Death of the Outsider",
+        "url": "https://www.gamesmen.com.au/dishonored-death-of-the-outsider-1",
+        "genre": "Action/Adventure",
+        "developer": "Arkane Studios"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Check the Classification (CTC)",
+        "title": "Beyond Good & Evil 2",
+        "url": "https://www.gamesmen.com.au/beyond-good-evil-2",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Montpellier"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "Shadow of the Colossus",
+        "url": "https://www.gamesmen.com.au/ps4-shadow-of-the-colossus",
+        "genre": "Action/Adventure",
+        "developer": "SIE Japan Studio"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Restricted (R 18+)",
+        "title": "Doom VFR",
+        "url": "https://www.gamesmen.com.au/doom-vfr",
+        "genre": "Shooter",
+        "developer": "id Software"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Sonic Forces (U.S Import)",
+        "url": "https://www.gamesmen.com.au/sonic-forces-2",
+        "genre": "Platformer",
+        "developer": "Sonic Team"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature (M)",
+        "title": "Agents of Mayhem [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-agents-of-mayhem",
+        "genre": "Action/Adventure",
+        "developer": "Deep Silver"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Uncharted: The Lost Legacy [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/uncharted-the-lost-legacy-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Check the Classification (CTC)",
+        "title": "Ghost of Tsushima with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/ghost-of-tsushima",
+        "genre": "Action/Adventure",
+        "developer": "Sucker Punch Productions"
+    },
+    {
+        "publisher": "2K Sports",
+        "classification": "Mature (M)",
+        "title": "WWE 2K18 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/wwe-2k18-pre-owned",
+        "genre": "Sports",
+        "developer": "Visual Concepts"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Secret of Mana (U.S Import)",
+        "url": "https://www.gamesmen.com.au/secret-of-mana",
+        "genre": "RPG",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Assassin's Creed: Origins [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/assassin-s-creed-origins-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "MX vs ATV All Out",
+        "url": "https://www.gamesmen.com.au/mx-vs-atv-all-out",
+        "genre": "Racing",
+        "developer": "THQ Nordic"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "New Gundam Breaker",
+        "url": "https://www.gamesmen.com.au/new-gundam-breaker",
+        "genre": "RPG",
+        "developer": "Bandai Namco Studios"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Middle-Earth: Shadow of War [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/middle-earth-shadow-of-war-pre-owned-1",
+        "genre": "Action/Adventure",
+        "developer": "Monolith Productions"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Rage 2",
+        "url": "https://www.gamesmen.com.au/rage-2-2",
+        "genre": "Shooter",
+        "developer": "id Software"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Warhammer: The End Times - Vermintide [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/warhammer-the-end-times-vermintide-pre-owned-1",
+        "genre": "Shooter",
+        "developer": "Nordic Games"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "General (G)",
+        "title": "Team Sonic Racing (U.S Import)",
+        "url": "https://www.gamesmen.com.au/team-sonic-racing-2",
+        "genre": "Racing",
+        "developer": "Sumo Digital"
+    },
+    {
+        "publisher": null,
+        "classification": "Check the Classification (CTC)",
+        "title": "Dying Light 2",
+        "url": "https://www.gamesmen.com.au/dying-light-2",
+        "genre": "Action/Adventure",
+        "developer": "Techland"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Restricted (R 18+)",
+        "title": "Wolfenstein: Youngblood Deluxe Edition",
+        "url": "https://www.gamesmen.com.au/wolfenstein-youngblood-2",
+        "genre": "Shooter",
+        "developer": "MachineGames"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Mutant Football League Dynasty Edition",
+        "url": "https://www.gamesmen.com.au/mutant-football-league-dynasty-edition-1",
+        "genre": "Sports",
+        "developer": "Digital Dreams Entertainment LLC"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Marvel's Iron Man VR with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/iron-man-vr",
+        "genre": "Action/Adventure",
+        "developer": "Camouflaj"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Shadow of the Tomb Raider [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-shadow-of-the-tomb-raider",
+        "genre": "Action/Adventure",
+        "developer": "Crystal Dynamics"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Judgment",
+        "url": "https://www.gamesmen.com.au/judgment",
+        "genre": "Action/Adventure",
+        "developer": "Sega"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "RPG Maker MV",
+        "url": "https://www.gamesmen.com.au/rpg-maker-mv-2",
+        "genre": "RPG",
+        "developer": "Nippon Ichi Software (NIS America)"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "God of War III Remastered (Playstation Hits)",
+        "url": "https://www.gamesmen.com.au/god-of-war-iii-remastered-playstation-hits",
+        "genre": "Action/Adventure",
+        "developer": "SIE Santa Monica Studio"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "The Lego Movie 2 Video Game",
+        "url": "https://www.gamesmen.com.au/the-lego-movie-2-video-game",
+        "genre": "Action/Adventure",
+        "developer": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Kingdom Hearts III [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/kingdom-hearts-iii-pre-owned",
+        "genre": "Action/Adventure",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "Nintendo",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Shovel Knight: Treasure Trove",
+        "url": "https://www.gamesmen.com.au/shovel-knight-treasure-trove",
+        "genre": "Action/Adventure",
+        "developer": "Yacht Club Games"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature (M)",
+        "title": "Anthem [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-anthem",
+        "genre": "Action/Adventure",
+        "developer": "BioWare"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's Ghost Recon: Breakpoint",
+        "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-breakpoint-1",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Paris"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's The Division 2 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-tom-clancys-the-division-2",
+        "genre": "Shooter",
+        "developer": "Massive Entertainment"
+    },
+    {
+        "publisher": null,
+        "classification": "Check the Classification (CTC)",
+        "title": "Biomutant",
+        "url": "https://www.gamesmen.com.au/biomutant",
+        "genre": "Action/Adventure",
+        "developer": "THQ Nordic"
+    },
+    {
+        "publisher": null,
+        "classification": "Check the Classification (CTC)",
+        "title": "Lego Star Wars: The Skywalker Saga",
+        "url": "https://www.gamesmen.com.au/lego-star-wars-the-skywalker-saga",
+        "genre": "Action/Adventure",
+        "developer": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "publisher": "Codemasters",
+        "classification": "General (G)",
+        "title": "GRID Ultimate Edition",
+        "url": "https://www.gamesmen.com.au/grid-ultimate-edition",
+        "genre": "Racing",
+        "developer": "Codemasters"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Check the Classification (CTC)",
+        "title": "Ghostwire Tokyo",
+        "url": "https://www.gamesmen.com.au/ghostwire-tokyo-1",
+        "genre": "Action/Adventure",
+        "developer": "Tango Gameworks"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Check the Classification (CTC)",
+        "title": "Deathloop",
+        "url": "https://www.gamesmen.com.au/deathloop-1",
+        "genre": "Action/Adventure",
+        "developer": "Arkane Studios"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "Check the Classification (CTC)",
+        "title": "Elden Ring",
+        "url": "https://www.gamesmen.com.au/elden-ring",
+        "genre": "RPG",
+        "developer": "FromSoftware"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Check the Classification (CTC)",
+        "title": "Watch Dogs Legion",
+        "url": "https://www.gamesmen.com.au/watch-dogs-legion",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Check the Classification (CTC)",
+        "title": "Marvel's Avengers with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/marvel-s-avengers",
+        "genre": "Action/Adventure",
+        "developer": "Crystal Dynamics"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Check the Classification (CTC)",
+        "title": "Gods & Monsters",
+        "url": "https://www.gamesmen.com.au/gods-monsters-1",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Quebec"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Check the Classification (CTC)",
+        "title": "Watch Dogs Legion Gold Edition",
+        "url": "https://www.gamesmen.com.au/watch-dogs-legion-gold-edition",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Monster Jam: Steel Titans",
+        "url": "https://www.gamesmen.com.au/monster-jam-steel-titans",
+        "genre": "Racing",
+        "developer": "THQ Nordic"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Darksiders: Genesis",
+        "url": "https://www.gamesmen.com.au/darksiders-genesis-1",
+        "genre": "RPG",
+        "developer": "THQ Nordic"
+    },
+    {
+        "publisher": "EA Sports",
+        "classification": "General (G)",
+        "title": "NHL 20",
+        "url": "https://www.gamesmen.com.au/nhl-20",
+        "genre": "Sports",
+        "developer": "EA Vancouver"
+    },
+    {
+        "publisher": "Konami",
+        "classification": "Mature (M)",
+        "title": "Contra: Rouge Corps",
+        "url": "https://www.gamesmen.com.au/contra-rouge-corps",
+        "genre": "Shooter",
+        "developer": "Konami Computer Entertainment Japan"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Disgaea 4 Complete +",
+        "url": "https://www.gamesmen.com.au/disgaea-4-complete",
+        "genre": "RPG",
+        "developer": "Nippon Ichi Software (NIS America)"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "Mature (M)",
+        "title": "One Punch Man: A Hero Nobody Knows",
+        "url": "https://www.gamesmen.com.au/one-punch-man-a-hero-nobody-knows-1",
+        "genre": "Fighting",
+        "developer": "Bandai Namco Studios"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Rage 2 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/rage-2-pre-owned",
+        "genre": "Shooter",
+        "developer": "id Software"
+    },
+    {
+        "publisher": null,
+        "classification": null,
+        "title": "Death's Gambit",
+        "url": "https://www.gamesmen.com.au/death-s-gambit",
+        "genre": "Platformer",
+        "developer": "Skybound Games"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Uncharted: The Lost Legacy (Playstation Hits)",
+        "url": "https://www.gamesmen.com.au/ps4-uncharted-lost-legacy-hits",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": "Disney Interactive Studios",
+        "classification": "General (G)",
+        "title": "Disney Classic Games: Aladdin and The Lion King",
+        "url": "https://www.gamesmen.com.au/disney-classic-games-aladdin-and-the-lion-king",
+        "genre": "Action/Adventure",
+        "developer": "Nighthawk Interactive"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Monster Energy Supercross 3",
+        "url": "https://www.gamesmen.com.au/monster-energy-supercross-3-2",
+        "genre": "Racing",
+        "developer": "18POINT2"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature (M)",
+        "title": "Need for Speed: Heat [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/need-for-speed-heat-pre-owned",
+        "genre": "Racing",
+        "developer": "Ghost Games"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "Check the Classification (CTC)",
+        "title": "Fast & Furious: Crossroads",
+        "url": "https://www.gamesmen.com.au/fast-furious-crossroads-1",
+        "genre": "Racing",
+        "developer": "Slightly Mad Studios"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "Mature (M)",
+        "title": "SWORD ART ONLINE: Alicization Lycoris with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/sword-art-online-alicization-lycoris",
+        "genre": "RPG",
+        "developer": "Aquria"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Check the Classification (CTC)",
+        "title": "Marvel's Avengers Deluxe Edition with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/marvel-s-avengers-deluxe-edition-ps4",
+        "genre": "Action/Adventure",
+        "developer": "Crystal Dynamics"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Moving Out",
+        "url": "https://www.gamesmen.com.au/moving-out-1",
+        "genre": "Puzzle",
+        "developer": "Sold Out"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "SnowRunner Premium Edition with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/snowrunner-premium-edition-with-pre-order-bonus-dlc",
+        "genre": "Simulation",
+        "developer": "Focus Home Interactive"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "Mature (M)",
+        "title": "My Hero One's Justice 2",
+        "url": "https://www.gamesmen.com.au/my-hero-one-s-justice-2",
+        "genre": "Fighting",
+        "developer": "Bandai Namco Studios"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Trials of Mana",
+        "url": "https://www.gamesmen.com.au/trials-of-mana-1",
+        "genre": "RPG",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Check the Classification (CTC)",
+        "title": "Outriders: Deluxe Edition",
+        "url": "https://www.gamesmen.com.au/outriders-deluxe-edition-2",
+        "genre": "RPG",
+        "developer": "People Can Fly"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "The Sojourn",
+        "url": "https://www.gamesmen.com.au/the-sojourn",
+        "genre": "Action/Adventure",
+        "developer": "Five Star Games"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Dollhouse",
+        "url": "https://www.gamesmen.com.au/dollhouse",
+        "genre": "Survival Horror",
+        "developer": "SOEDESCO"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Drone Championship League The Game",
+        "url": "https://www.gamesmen.com.au/drone-championship-league-the-game",
+        "genre": "Racing",
+        "developer": "THQ Nordic"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Owlboy",
+        "url": "https://www.gamesmen.com.au/owlboy",
+        "genre": "Action/Adventure",
+        "developer": "SOEDESCO"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "The Wonderful 101 Remastered",
+        "url": "https://www.gamesmen.com.au/the-wonderful-101-remastered",
+        "genre": "Action/Adventure",
+        "developer": "Nighthawk Interactive"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Descenders",
+        "url": "https://www.gamesmen.com.au/descenders",
+        "genre": "Racing",
+        "developer": "No More Robots"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Restricted (R 18+)",
+        "title": "The Order: 1886 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-the-order-1886",
+        "genre": "Action/Adventure",
+        "developer": "Ready At Dawn Studios"
+    },
+    {
+        "publisher": "2K Sports",
+        "classification": "General (G)",
+        "title": "NBA 2K15 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/catalog/product/view/id/22084/",
+        "genre": "Sports",
+        "developer": "Visual Concepts"
+    },
+    {
+        "publisher": "Activision",
+        "classification": "Mature (M)",
+        "title": "Destiny [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-destiny",
+        "genre": "Shooter",
+        "developer": "Bungie"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature (M)",
+        "title": "Assassin's Creed Chronicles",
+        "url": "https://www.gamesmen.com.au/assassin-s-creed-chronicles",
+        "genre": "Action/Adventure",
+        "developer": "Climax Studios"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature (M)",
+        "title": "The Elder Scrolls Online: Tamriel Unlimited [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/catalog/product/view/id/22137/",
+        "genre": "RPG",
+        "developer": "ZeniMax Online Studios"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Fallout 4 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/fallout-4",
+        "genre": "RPG",
+        "developer": "Bethesda Game Studios"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Days Gone",
+        "url": "https://www.gamesmen.com.au/days-gone",
+        "genre": "Action/Adventure",
+        "developer": "SIE Bend Studio"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "Marvel's Spider-Man",
+        "url": "https://www.gamesmen.com.au/spider-man",
+        "genre": "Action/Adventure",
+        "developer": "Insomniac Games"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Death Stranding",
+        "url": "https://www.gamesmen.com.au/death-stranding",
+        "genre": "Action/Adventure",
+        "developer": "Kojima Productions"
+    },
+    {
+        "publisher": "Capcom",
+        "classification": "Restricted (R 18+)",
+        "title": "Resident Evil 7: Biohazard (U.S. Import)",
+        "url": "https://www.gamesmen.com.au/resident-evil-7-1",
+        "genre": "Survival Horror",
+        "developer": "Capcom"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Battlefield 1 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/battlefield-1-pre-owned-1",
+        "genre": "Shooter",
+        "developer": "EA DICE"
+    },
+    {
+        "publisher": null,
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Battlezone",
+        "url": "https://www.gamesmen.com.au/battlezone",
+        "genre": "Shooter",
+        "developer": "Rebellion"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Check the Classification (CTC)",
+        "title": "The Last of Us Part II",
+        "url": "https://www.gamesmen.com.au/the-last-of-us-part-ii",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": "2K Sports",
+        "classification": "General (G)",
+        "title": "NBA 2K17 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-nba-2k17",
+        "genre": "Sports",
+        "developer": "Visual Concepts"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature (M)",
+        "title": "Final Fantasy XV [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/final-fantasy-xv-pre-owned",
+        "genre": "RPG",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Concrete Genie",
+        "url": "https://www.gamesmen.com.au/concrete-genie",
+        "genre": "Action/Adventure",
+        "developer": "Pixelopus"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Fallout 76 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-fallout-76",
+        "genre": "Action/Adventure",
+        "developer": "Bethesda Game Studios"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's Ghost Recon: Breakpoint Gold Edition",
+        "url": "https://www.gamesmen.com.au/tom-clancy-s-ghost-recon-breakpoint-gold-edition-ps4",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Paris"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Metro Exodus [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-metro-exodus",
+        "genre": "Shooter",
+        "developer": "Deep Silver"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "Horizon Zero Dawn Complete Edition [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-horizon-zero-dawn-complete-edition",
+        "genre": "Action/Adventure",
+        "developer": "Guerrilla Games"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature (M)",
+        "title": "Baldur\u2019s Gate & Baldur\u2019s Gate II Enhanced Edition",
+        "url": "https://www.gamesmen.com.au/baldur-s-gate-baldur-s-gate-ii-enhanced-edition-2",
+        "genre": "RPG",
+        "developer": "Skybound Games"
+    },
+    {
+        "publisher": "Koei Tecmo",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Nioh (Playstation Hits)",
+        "url": "https://www.gamesmen.com.au/ps4-nioh-hits",
+        "genre": "Action/Adventure",
+        "developer": "Team Ninja"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Mature (M)",
+        "title": "Final Fantasy: XIV Shadowbringers",
+        "url": "https://www.gamesmen.com.au/final-fantasy-xiv-shadowbringers",
+        "genre": "RPG",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Two Point Hospital",
+        "url": "https://www.gamesmen.com.au/ps4-two-point-hospital",
+        "genre": "Simulation",
+        "developer": "Two Point Studios"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Narcos: Rise of the Cartels",
+        "url": "https://www.gamesmen.com.au/narcos-rise-of-the-cartels-2",
+        "genre": "Action/Adventure",
+        "developer": "Curve Digital"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "Restricted (R 18+)",
+        "title": "Life is Strange 2",
+        "url": "https://www.gamesmen.com.au/life-is-strange-2",
+        "genre": "Action/Adventure",
+        "developer": "Dontnod Entertainment"
+    },
+    {
+        "publisher": null,
+        "classification": "Restricted (R 18+)",
+        "title": "Zombie Army 4: Dead War",
+        "url": "https://www.gamesmen.com.au/zombie-army-4-dead-war",
+        "genre": "Shooter",
+        "developer": "Sold Out"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Bayonetta & Vanquish 10th Anniversary Launch Edition",
+        "url": "https://www.gamesmen.com.au/bayonetta-vanquish-10th-anniversary-launch-edition",
+        "genre": "Action/Adventure",
+        "developer": "PlatinumGames"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "SnowRunner with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/snowrunner-with-pre-order-bonus-dlc",
+        "genre": "Simulation",
+        "developer": "Focus Home Interactive"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Far Cry 4 Limited Edition",
+        "url": "https://www.gamesmen.com.au/ps4-far-cry-4-limited-edition",
+        "genre": "Shooter",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "publisher": "Bethesda Softworks",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "The Elder Scrolls V: Skyrim VR",
+        "url": "https://www.gamesmen.com.au/the-elder-scrolls-v-skyrim-vr",
+        "genre": "RPG",
+        "developer": "Bethesda Game Studios"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "General (G)",
+        "title": "Madden NFL 16 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/catalog/product/view/id/22163/",
+        "genre": "Sports",
+        "developer": "EA Tiburon"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Middle-Earth: The Shadow of Mordor [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/p-o-ps4-middle-earth-shadow-of-mordor",
+        "genre": "Action/Adventure",
+        "developer": "Monolith Productions"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Don Bradman Cricket 17",
+        "url": "https://www.gamesmen.com.au/don-bradman-cricket-17",
+        "genre": "Sports",
+        "developer": "Tru Blu Entertainment"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Blood & Truth",
+        "url": "https://www.gamesmen.com.au/blood-truth",
+        "genre": "Shooter",
+        "developer": "SIE London Studio"
+    },
+    {
+        "publisher": "Bandai Namco Entertainment",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Dragon Ball Z: Kakarot",
+        "url": "https://www.gamesmen.com.au/dragon-ball-z-kakarot",
+        "genre": "Action/Adventure",
+        "developer": "CyberConnect2"
+    },
+    {
+        "publisher": "Activision",
+        "classification": "Mature (M)",
+        "title": "Destiny 2 [Pre-Owned]",
+        "url": "https://www.gamesmen.com.au/destiny-2-pre-owned",
+        "genre": "Shooter",
+        "developer": "Bungie"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "Horizon Zero Dawn Complete Edition (Playstation Hits)",
+        "url": "https://www.gamesmen.com.au/horizon-zero-dawn-complete-edition-playstation-hits",
+        "genre": "Action/Adventure",
+        "developer": "Guerrilla Games"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "General (G)",
+        "title": "Rayman Legends (PlayStation Hits)",
+        "url": "https://www.gamesmen.com.au/rayman-legends-playstation-hits",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Montpellier"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature (M)",
+        "title": "MediEvil",
+        "url": "https://www.gamesmen.com.au/medievil-3",
+        "genre": "Action/Adventure",
+        "developer": null
+    },
+    {
+        "publisher": "2K Sports",
+        "classification": "Mature (M)",
+        "title": "WWE 2K20",
+        "url": "https://www.gamesmen.com.au/ps4-wwe-2k20",
+        "genre": "Sports",
+        "developer": "Visual Concepts"
+    },
+    {
+        "publisher": "SEGA",
+        "classification": "Mature (M)",
+        "title": "Shining Resonance Refrain",
+        "url": "https://www.gamesmen.com.au/shining-resonance-refrain-1",
+        "genre": "RPG",
+        "developer": "Sega"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "God of War (Playstation Hits)",
+        "url": "https://www.gamesmen.com.au/ps4-god-of-war-hits",
+        "genre": "Action/Adventure",
+        "developer": "SIE Santa Monica Studio"
+    },
+    {
+        "publisher": "Sony Interactive Entertainment",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Detroit: Become Human",
+        "url": "https://www.gamesmen.com.au/detroit-become-human",
+        "genre": "Action/Adventure",
+        "developer": "Quantic Dream"
+    },
+    {
+        "publisher": "Rockstar Games",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Red Dead Redemption 2",
+        "url": "https://www.gamesmen.com.au/red-dead-redemption-2",
+        "genre": "Action/Adventure",
+        "developer": "Rockstar San Diego"
+    },
+    {
+        "publisher": "Square Enix",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Kingdom Hearts HD 1.5 + 2.5 Remix",
+        "url": "https://www.gamesmen.com.au/kingdom-hearts-hd-1-5-2-5-remix",
+        "genre": "Action/Adventure",
+        "developer": "Square Enix"
+    },
+    {
+        "publisher": "505 Games",
+        "classification": "General (G)",
+        "title": "Assetto Corsa Competizione with Pre-Order Bonus DLC",
+        "url": "https://www.gamesmen.com.au/assetto-corsa-competizione",
+        "genre": "Racing",
+        "developer": "Racing Simulators & Cockpits"
+    },
+    {
+        "publisher": null,
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Far Cry 5",
+        "url": "https://www.gamesmen.com.au/ps4-far-cry-5",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's The Division 2 Dark Zone Collectors Edition",
+        "url": "https://www.gamesmen.com.au/tom-clancy-s-the-division-2-dark-zone-collectors-edition",
+        "genre": "Shooter",
+        "developer": "Massive Entertainment"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Assassin's Creed Syndicate Special Edition",
+        "url": "https://www.gamesmen.com.au/ps4-assassins-creed-syndicate",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Quebec"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Watch_Dogs 2 Gold Edition",
+        "url": "https://www.gamesmen.com.au/watch-dogs-2-gold-edition",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "publisher": null,
+        "classification": "Restricted (R 18+)",
+        "title": "The Witcher 3: Wild Hunt Game of the Year Edition",
+        "url": "https://www.gamesmen.com.au/the-witcher-3-wild-hunt-game-of-the-year-edition-2",
+        "genre": "RPG",
+        "developer": "CD Projekt"
+    },
+    {
+        "publisher": null,
+        "classification": "General (G)",
+        "title": "Minecraft Starter Collection",
+        "url": "https://www.gamesmen.com.au/ps4-minecraft-bedrock",
+        "genre": "Action/Adventure",
+        "developer": "Mojang"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Far Cry: New Dawn",
+        "url": "https://www.gamesmen.com.au/far-cry-new-dawn",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature (M)",
+        "title": "Need for Speed Payback",
+        "url": "https://www.gamesmen.com.au/need-for-speed-payback-1",
+        "genre": "Racing",
+        "developer": "Ghost Games"
+    },
+    {
+        "publisher": "Electronic Arts",
+        "classification": "Mature (M)",
+        "title": "Star Wars: Jedi Fallen Order",
+        "url": "https://www.gamesmen.com.au/star-wars-jedi-fallen-order",
+        "genre": "RPG",
+        "developer": "Respawn Entertainment"
+    },
+    {
+        "publisher": "Rockstar Games",
+        "classification": "Restricted (R 18+)",
+        "title": "Grand Theft Auto V Premium Edition",
+        "url": "https://www.gamesmen.com.au/grand-theft-auto-v-premium-edition",
+        "genre": "Action/Adventure",
+        "developer": "Rockstar North"
+    },
+    {
+        "publisher": "Codemasters",
+        "classification": "General (G)",
+        "title": "DiRT Rally 2.0 Day One Edition",
+        "url": "https://www.gamesmen.com.au/dirt-rally-2-0-day-one-edition",
+        "genre": "Racing",
+        "developer": "Racing Simulators & Cockpits"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Tom Clancy's The Division 2",
+        "url": "https://www.gamesmen.com.au/tom-clancy-s-the-division-2-1",
+        "genre": "Shooter",
+        "developer": "Massive Entertainment"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "\u200bParental Guidance (PG)",
+        "title": "Starlink: Battle for Atlas Starter Pack",
+        "url": "https://www.gamesmen.com.au/starlink-battle-for-atlas",
+        "genre": "Action/Adventure",
+        "developer": "Ubisoft Toronto"
+    },
+    {
+        "publisher": "Activision",
+        "classification": "Mature Accompanied (MA 15+)",
+        "title": "Call of Duty: Modern Warfare",
+        "url": "https://www.gamesmen.com.au/call-of-duty-modern-warfare-1",
+        "genre": "Shooter",
+        "developer": "Infinity Ward"
+    },
+    {
+        "publisher": "Ubisoft",
+        "classification": "General (G)",
+        "title": "Just Dance 2017",
+        "url": "https://www.gamesmen.com.au/just-dance-2017-1",
+        "genre": "Music & Dance",
+        "developer": "Ubisoft Paris"
+    }
 ]

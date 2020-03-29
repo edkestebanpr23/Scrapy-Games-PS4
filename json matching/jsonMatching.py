@@ -17,17 +17,17 @@ stopwords = ['limited','preorder','remake', 'ps4', 'playstation', 'with', 'day',
 """ stopwords = stopwords.words('english') """
 
 # conexión
+print('Conectandose con base de datos')
 con = MongoClient('mongodb+srv://inmanueld:securepass@ps4games-8q85r.mongodb.net/test?retryWrites=true&w=majority')
 db = con.ps4
-
-# colección
-#User = db.user
-#resultado = User.find()
 Games = db.game
+resultado = Games.find()
+juegos = []
+#print(resultado)
+for x in resultado:
+   juegos.append(x)
 
-
-#for x in resultado:
-#    print(x)
+print('Inicio de merge entre resultados encontrados, espere...') 
 def clean_string(text):
     text = ''.join([word for word in text if word not in string.punctuation])
     text = text.lower()
@@ -69,12 +69,46 @@ for gameItem in games:
                 buyGames.pop(buyGames.index(buyGameItem))    
         sentences.pop(1)
     sentences.clear()
- 
-mergedGames = games + buyGames
-with open('../mergedGames.json', 'w') as json_file:
-  json.dump(mergedGames, json_file)
-    
+        
+
+
+newGames = games
+
+# Eliminando atributos de id y calificación para comparar con los juegos almacenados en DB
+for item in juegos:
+    if item.get('_id') != None:
+        del item['_id']
+    if item.get('rate') != None:
+        del item['rate']
+    if item.get('state') != None:
+        del item['state']
+
+# Comparando si los juegos encontrados ahora ya existen en DB o si ya dejaron de existir
+aux_newGames = juegos
+for item in newGames:
+    if item in juegos:
+        print('Existe el juego:', item['title'])
+        del aux_newGames[aux_newGames.index(item)]
+    else:
+        item['rate'] = []
+        item['state'] = True
+        print('...:', item)
+        Games.insert_one(item)
+
+# Cambiando el estado a los juegos que dejaron de estar publicados
+if len(aux_newGames) > 0:
+    print('Hay items que dejaron de existir')
+    for item in aux_newGames:
+        print(item)
+        Games.update_one({"title": item['title']}, { "$set": { 'state': False } })
+        
+
+# 
+#mergedGames = games + buyGames
+#with open('../mergedGames.json', 'w') as json_file:
+#  json.dump(mergedGames, json_file)
+#    
 #for mergedItem in mergedGames:
-#    Games.update_one({ "title": mergedItem.get('title')}, mergedItem)  
+#   Games.update_one({ "title": mergedItem.get('title')}, mergedItem)  
 """ print(games) 
 print(buyGames) """

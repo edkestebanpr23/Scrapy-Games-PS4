@@ -12,7 +12,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 """ from nltk.corpus import stopwords """
 
-stopwords = ['remake', 'ps4', 'playstation', 'with', 'day', 'one', 'gold','hits','premium', 'complete', 'champion', 'launch', 'pre-order', 'special', 'edition', 'bonus', 'dlc', 'preowned', 'remastered', 'xl', 'deluxe', 'enhanced', 'digital', 'apex', 'definitive', 'anniversary', 'standard', 'ultimate']
+stopwords = ['limited','preorder','remake', 'ps4', 'playstation', 'with', 'day', 'one', 'gold','hits','premium', 'complete', 'champion', 'launch', 'pre-order', 'special', 'edition', 'bonus', 'dlc', 'preowned', 'remastered', 'xl', 'deluxe', 'enhanced', 'digital', 'apex', 'definitive', 'anniversary', 'standard', 'ultimate']
 """ stopwords = stopwords.words('english') """
 
 def clean_string(text):
@@ -49,12 +49,11 @@ for gameItem in games:
             levDistance = Levenshtein.distance(cleaned[0], cleaned[1])
             if(levDistance == 0):
                 gameItem.update({"url2": buyGameItem.get('url')})
-                buyGames.pop(buyGames.index(buyGameItem))
+                buyGames.pop(buyGames.index(buyGameItem))    
         sentences.pop(1)
     sentences.clear()
-    
-mergedGames = games + buyGames
-
+ 
+mergedGames = games
 with open('../mergedGames.json', 'w') as json_file:
   json.dump(mergedGames, json_file)
     
